@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Red Hat Summit Digital Transformation in Healthcare with Bianca Kastl, Mohammad Alavi &amp; Aarno Aukia](https://www.youtube.com/watch?v=4KvXMCC8FOI)
 - [&quot;Run MongoDB in a Devcontainer in less than 10 minutes&quot; by Diego Freniche  -  December 10, 2024](https://www.youtube.com/watch?v=Rw47LvZy1VE)
 - [&quot;Data Modeling and Real-World Insights&quot; by Peter Györgyfalvay - MongoDB Meetup, December 10, 2024](https://www.youtube.com/watch?v=ZjUMKVlNQyk)
 - [&quot;MongoDB evolution and current features&quot; by Juan Roy - MongoDB User Group Meetup, December 10, 2024](https://www.youtube.com/watch?v=4vmgplrVDnw)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [&quot;Cloud-native application packaging and management: Crossplane&quot; by Aarno Aukia](https://www.youtube.com/watch?v=ahDtxDqulgo)
 - [&quot;KubeVirt, Running and managing VMs on Kubernetes&quot; by Christof Lüthi &amp; Thomas Philipona &lpar;CNC Meetup&rpar;](https://www.youtube.com/watch?v=i_BrF_qBINc)
 - [&quot;Managing Geospatial Open Data Serverlessly&quot; by Chris Bingham - T2/3 CNC CH Meetup, November 7 2024](https://www.youtube.com/watch?v=y3NnNjeQRkM)
-- [&quot;Porting Legacy Applications to Kubernetes&quot; by Carole Hamer - T1/3 CNC CH Meetup, November 7 2024](https://www.youtube.com/watch?v=K_f0def7Ogo)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

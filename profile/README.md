@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Recap Red Hat Summit Connect Switzerland 2025](https://www.vshn.ch/blog/recap-red-hat-summit-connect-switzerland-2025/)
 - [DevOps in Switzerland Survey 2025](https://www.vshn.ch/blog/devops-in-switzerland-survey-2025/)
 - [VSHN.timer #252: Transforming the digital landscape](https://www.vshn.ch/blog/vshn-timer-252-transforming-the-digital-landscape/)
 - [Happy Holidays](https://www.vshn.ch/blog/happy-holidays/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #250: VSHN10 &amp; K8s10 🎉 🥳 🎂](https://www.vshn.ch/blog/vshn-timer-250-vshn10-k8s10/)
 - [VSHN’s 10-jähriges Jubiläum](https://www.vshn.ch/blog/vshns-10-jaehriges-jubilaeum/)
 - [VSHN und IONOS gewinnen Red Hat Cloud Ecosystem Award](https://www.vshn.ch/blog/vshn-und-ionos-gewinnen-red-hat-cloud-ecosystem-award/)
-- [Welcome Andreas!](https://www.vshn.ch/blog/welcome-andreas-2/)
 <!-- GENERAL:END -->
 
 ## Social Media

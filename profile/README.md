@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #256: Open Source odyssey –  Community voices shaping tomorrow’s tech](https://www.vshn.ch/blog/vshn-timer-256-open-source-odyssey-community-voices-shaping-tomorrows-tech/)
 - [VSHN.timer #255: Hacking the system – how secure are your devices really?](https://www.vshn.ch/blog/vshn-timer-255-hacking-the-system-how-secure-are-your-devices-really/)
 - [VSHN.timer #254: Data Dynamo – Exploring the future of Databases and Data Management](https://www.vshn.ch/blog/vshn-timer-254-data-dynamo-exploring-the-future-of-databases-and-data-management/)
 - [VSHN.timer #253: Europe, it’s time to cut the cord](https://www.vshn.ch/blog/vshn-timer-253-europe-its-time-to-cut-the-cord/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Recap Red Hat Summit Connect Switzerland 2025](https://www.vshn.ch/blog/recap-red-hat-summit-connect-switzerland-2025/)
 - [DevOps in Switzerland Survey 2025](https://www.vshn.ch/blog/devops-in-switzerland-survey-2025/)
 - [VSHN.timer #252: Transforming the digital landscape](https://www.vshn.ch/blog/vshn-timer-252-transforming-the-digital-landscape/)
-- [Happy Holidays](https://www.vshn.ch/blog/happy-holidays/)
 <!-- GENERAL:END -->
 
 ## Social Media

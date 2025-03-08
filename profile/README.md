@@ -42,14 +42,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Dig Smart - Creating a Reliable Cloud-Native DNS Service for 5G at Swisscom](https://www.youtube.com/watch?v=uw7gs-klCIE)
+- [The Zühlke Platform Plane - Should it go open source?](https://www.youtube.com/watch?v=wDS-YoGoIsU)
+- [Platform Engineering on AWS](https://www.youtube.com/watch?v=hdIg4TJo-BE)
+- [PostgreSQL in Kubernetes - Day 2 operations](https://www.youtube.com/watch?v=WL8ELvlsi_g)
 - [Datensouveränität im Cloud Native Zeitalter - Webinar von IONOS &amp; VSHN](https://www.youtube.com/watch?v=NUXuuJ7_aR0)
 - [Red Hat Summit Digital Transformation in Healthcare with Bianca Kastl, Mohammad Alavi &amp; Aarno Aukia](https://www.youtube.com/watch?v=4KvXMCC8FOI)
 - [&quot;Run MongoDB in a Devcontainer in less than 10 minutes&quot; by Diego Freniche  -  December 10, 2024](https://www.youtube.com/watch?v=Rw47LvZy1VE)
 - [&quot;Data Modeling and Real-World Insights&quot; by Peter Györgyfalvay - MongoDB Meetup, December 10, 2024](https://www.youtube.com/watch?v=ZjUMKVlNQyk)
-- [&quot;MongoDB evolution and current features&quot; by Juan Roy - MongoDB User Group Meetup, December 10, 2024](https://www.youtube.com/watch?v=4vmgplrVDnw)
-- [&quot;Tekton, Kafka and Keda in KEZ: A Suva&#39;s automated system for coordinated document request&quot;](https://www.youtube.com/watch?v=smDz-L3Ru4I)
-- [&quot;Cloud-native application packaging and management: Crossplane&quot; by Aarno Aukia](https://www.youtube.com/watch?v=ahDtxDqulgo)
-- [&quot;KubeVirt, Running and managing VMs on Kubernetes&quot; by Christof Lüthi &amp; Thomas Philipona &lpar;CNC Meetup&rpar;](https://www.youtube.com/watch?v=i_BrF_qBINc)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

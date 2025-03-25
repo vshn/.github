@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #258: Digital independence – why data sovereignty matters more than ever under Trump 2.0](https://www.vshn.ch/blog/vshn-timer-258-digital-independence-why-data-sovereignty-matters-more-than-ever-under-trump-2-0/)
 - [Recap DevOpsDays Zurich 2025](https://www.vshn.ch/blog/recap-devopsdays-zurich-2025/)
 - [VSHN launcht Servala – Open Cloud Native Service Hub](https://www.vshn.ch/blog/vshn-launcht-servala-open-cloud-native-service-hub/)
 - [VSHN.timer #257: Open Source vs. corporate greed – who wins in the end?](https://www.vshn.ch/blog/vshn-timer-257-open-source-vs-corporate-greed-who-wins-in-the-end/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #256: Open Source odyssey –  Community voices shaping tomorrow’s tech](https://www.vshn.ch/blog/vshn-timer-256-open-source-odyssey-community-voices-shaping-tomorrows-tech/)
 - [VSHN.timer #255: Hacking the system – how secure are your devices really?](https://www.vshn.ch/blog/vshn-timer-255-hacking-the-system-how-secure-are-your-devices-really/)
 - [VSHN.timer #254: Data Dynamo – Exploring the future of Databases and Data Management](https://www.vshn.ch/blog/vshn-timer-254-data-dynamo-exploring-the-future-of-databases-and-data-management/)
-- [VSHN.timer #253: Europe, it’s time to cut the cord](https://www.vshn.ch/blog/vshn-timer-253-europe-its-time-to-cut-the-cord/)
 <!-- GENERAL:END -->
 
 ## Social Media

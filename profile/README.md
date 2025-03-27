@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Why VSHN Managed OpenShift Customers Are Safe from the Recent Ingress NGINX Vulnerability](https://www.vshn.ch/blog/why-vshn-managed-openshift-customers-are-safe-from-the-recent-ingress-nginx-vulnerability/)
 - [Webinar Intro to Servala – Open Cloud Native Service Hub](https://www.vshn.ch/blog/webinar-intro-to-servala-open-cloud-native-service-hub/)
 - [VSHN.timer #258: Digital independence – why data sovereignty matters more than ever under Trump 2.0](https://www.vshn.ch/blog/vshn-timer-258-digital-independence-why-data-sovereignty-matters-more-than-ever-under-trump-2-0/)
 - [Recap DevOpsDays Zurich 2025](https://www.vshn.ch/blog/recap-devopsdays-zurich-2025/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #257: Open Source vs. corporate greed – who wins in the end?](https://www.vshn.ch/blog/vshn-timer-257-open-source-vs-corporate-greed-who-wins-in-the-end/)
 - [Hi Ronan!](https://www.vshn.ch/blog/hi-ronan/)
 - [VSHN.timer #256: Open Source odyssey –  Community voices shaping tomorrow’s tech](https://www.vshn.ch/blog/vshn-timer-256-open-source-odyssey-community-voices-shaping-tomorrows-tech/)
-- [VSHN.timer #255: Hacking the system – how secure are your devices really?](https://www.vshn.ch/blog/vshn-timer-255-hacking-the-system-how-secure-are-your-devices-really/)
 <!-- GENERAL:END -->
 
 ## Social Media

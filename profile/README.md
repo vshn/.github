@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Launching Servala - The Open Cloud Native Service Hub](https://www.youtube.com/watch?v=q1n8IarpwPY)
 - [Dig Smart - Creating a Reliable Cloud-Native DNS Service for 5G at Swisscom](https://www.youtube.com/watch?v=uw7gs-klCIE)
 - [The Zühlke Platform Plane - Should it go open source?](https://www.youtube.com/watch?v=wDS-YoGoIsU)
 - [Platform Engineering on AWS](https://www.youtube.com/watch?v=hdIg4TJo-BE)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Datensouveränität im Cloud Native Zeitalter - Webinar von IONOS &amp; VSHN](https://www.youtube.com/watch?v=NUXuuJ7_aR0)
 - [Red Hat Summit Digital Transformation in Healthcare with Bianca Kastl, Mohammad Alavi &amp; Aarno Aukia](https://www.youtube.com/watch?v=4KvXMCC8FOI)
 - [&quot;Run MongoDB in a Devcontainer in less than 10 minutes&quot; by Diego Freniche  -  December 10, 2024](https://www.youtube.com/watch?v=Rw47LvZy1VE)
-- [&quot;Data Modeling and Real-World Insights&quot; by Peter Györgyfalvay - MongoDB Meetup, December 10, 2024](https://www.youtube.com/watch?v=ZjUMKVlNQyk)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

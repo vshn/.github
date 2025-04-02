@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN at KubeCon &amp; CloudNativeCon Europe in London 2025 – Meet Aarno &amp; Tobias](https://www.vshn.ch/blog/vshn-at-kubecon-cloudnativecon-europe-in-london-2025-meet-aarno-tobias/)
 - [Warum wir Servala gestartet haben](https://www.vshn.ch/blog/warum-wir-servala-gestartet-haben/)
 - [Why VSHN Managed OpenShift Customers Are Safe from the Recent Ingress NGINX Vulnerability](https://www.vshn.ch/blog/why-vshn-managed-openshift-customers-are-safe-from-the-recent-ingress-nginx-vulnerability/)
 - [Webinar Intro to Servala – Open Cloud Native Service Hub](https://www.vshn.ch/blog/webinar-intro-to-servala-open-cloud-native-service-hub/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Recap DevOpsDays Zurich 2025](https://www.vshn.ch/blog/recap-devopsdays-zurich-2025/)
 - [VSHN launcht Servala – Open Cloud Native Service Hub](https://www.vshn.ch/blog/vshn-launcht-servala-open-cloud-native-service-hub/)
 - [VSHN.timer #257: Open Source vs. corporate greed – who wins in the end?](https://www.vshn.ch/blog/vshn-timer-257-open-source-vs-corporate-greed-who-wins-in-the-end/)
-- [Hi Ronan!](https://www.vshn.ch/blog/hi-ronan/)
 <!-- GENERAL:END -->
 
 ## Social Media

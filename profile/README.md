@@ -42,14 +42,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [An Introduction to Data Modeling for Retrieval Augmented Generation with MongoDB Atlas Vector Search](https://www.youtube.com/watch?v=SxJG5FdIDuw)
+- [&quot;From Manual To Manageable  – MongoDB Management with Terraform&quot; by Michael Ramstein](https://www.youtube.com/watch?v=y0Ll5VY2vX0)
 - [Launching Servala - The Open Cloud Native Service Hub](https://www.youtube.com/watch?v=q1n8IarpwPY)
 - [Dig Smart - Creating a Reliable Cloud-Native DNS Service for 5G at Swisscom](https://www.youtube.com/watch?v=uw7gs-klCIE)
 - [The Zühlke Platform Plane - Should it go open source?](https://www.youtube.com/watch?v=wDS-YoGoIsU)
 - [Platform Engineering on AWS](https://www.youtube.com/watch?v=hdIg4TJo-BE)
 - [PostgreSQL in Kubernetes - Day 2 operations](https://www.youtube.com/watch?v=WL8ELvlsi_g)
 - [Datensouveränität im Cloud Native Zeitalter - Webinar von IONOS &amp; VSHN](https://www.youtube.com/watch?v=NUXuuJ7_aR0)
-- [Red Hat Summit Digital Transformation in Healthcare with Bianca Kastl, Mohammad Alavi &amp; Aarno Aukia](https://www.youtube.com/watch?v=4KvXMCC8FOI)
-- [&quot;Run MongoDB in a Devcontainer in less than 10 minutes&quot; by Diego Freniche  -  December 10, 2024](https://www.youtube.com/watch?v=Rw47LvZy1VE)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

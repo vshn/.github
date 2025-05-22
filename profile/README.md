@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Learn more about PostgreSQL with core member Bruce Momjian](https://www.vshn.ch/blog/learn-more-about-postgresql-with-core-member-bruce-momjian/)
 - [Welcome Marco](https://www.vshn.ch/blog/welcome-marco/)
 - [Welcome Tobias!](https://www.vshn.ch/blog/welcome-tobias/)
 - [Die technischen Herausforderungen hinter Servala: Standardisierung der Applikationsbereitstellung](https://www.vshn.ch/blog/technische-herausforderungen-servala-standardisierung-applikationsbereitstellung/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN at KubeCon &amp; CloudNativeCon Europe in London 2025 – Meet Aarno &amp; Tobias](https://www.vshn.ch/blog/vshn-at-kubecon-cloudnativecon-europe-in-london-2025-meet-aarno-tobias/)
 - [Warum wir Servala gestartet haben](https://www.vshn.ch/blog/warum-wir-servala-gestartet-haben/)
 - [Why VSHN Managed OpenShift Customers Are Safe from the Recent Ingress NGINX Vulnerability](https://www.vshn.ch/blog/why-vshn-managed-openshift-customers-are-safe-from-the-recent-ingress-nginx-vulnerability/)
-- [Webinar Intro to Servala – Open Cloud Native Service Hub](https://www.vshn.ch/blog/webinar-intro-to-servala-open-cloud-native-service-hub/)
 <!-- GENERAL:END -->
 
 ## Social Media

@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Welcome Luca!](https://www.vshn.ch/blog/welcome-luca/)
 - [VSHN.timer #259: Open Source – Trust, Trouble &amp; Triumph](https://www.vshn.ch/blog/vshn-timer-259-open-source-trust-trouble-triumph/)
 - [VSHN Supports the First Swiss Software Festival in Basel as Matterhorn Sponsor](https://www.vshn.ch/blog/vshn-supports-the-first-swiss-software-festival-in-basel-as-matterhorn-sponsor/)
 - [Win Free Tickets to Cloud Native Zürich 2025!](https://www.vshn.ch/blog/win-free-tickets-to-cloud-native-zuerich-2025/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Welcome Marco](https://www.vshn.ch/blog/welcome-marco/)
 - [Welcome Tobias!](https://www.vshn.ch/blog/welcome-tobias/)
 - [Die technischen Herausforderungen hinter Servala: Standardisierung der Applikationsbereitstellung](https://www.vshn.ch/blog/technische-herausforderungen-servala-standardisierung-applikationsbereitstellung/)
-- [Recap KubeCon &amp; CloudNativeCon Europe 2025 in London](https://www.vshn.ch/blog/recap-kubecon-cloudnativecon-europe-2025-in-london/)
 <!-- GENERAL:END -->
 
 ## Social Media

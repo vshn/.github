@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Rückblick: Cloud Native Zürich 2025 – Ein Tag voller Insights, Innovation und Community](https://www.vshn.ch/blog/rueckblick-cloud-native-zuerich-2025-ein-tag-voller-insights-innovation-und-community/)
 - [Gewinne Tickets für das Swiss Software Festival 2025](https://www.vshn.ch/blog/gewinne-tickets-fuer-das-swiss-software-festival-2025/)
 - [Redis 8 jetzt im VSHN Application Catalog verfügbar und Redis ist wieder Open Source!](https://www.vshn.ch/blog/redis-8-jetzt-im-vshn-application-catalog-verfuegbar-und-redis-ist-wieder-open-source/)
 - [Welcome Luca!](https://www.vshn.ch/blog/welcome-luca/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN Supports the First Swiss Software Festival in Basel as Matterhorn Sponsor](https://www.vshn.ch/blog/vshn-supports-the-first-swiss-software-festival-in-basel-as-matterhorn-sponsor/)
 - [Win Free Tickets to Cloud Native Zürich 2025!](https://www.vshn.ch/blog/win-free-tickets-to-cloud-native-zuerich-2025/)
 - [Learn more about PostgreSQL with core team member Bruce Momjian](https://www.vshn.ch/blog/learn-more-about-postgresql-with-core-member-bruce-momjian/)
-- [Welcome Marco](https://www.vshn.ch/blog/welcome-marco/)
 <!-- GENERAL:END -->
 
 ## Social Media

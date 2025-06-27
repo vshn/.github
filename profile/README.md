@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Swiss Software Festival Basel 2025 - Recap by VSHN](https://www.youtube.com/watch?v=Zpa_hgG5ECU)
 - [&quot;Servala - the open cloud native service hub&quot; by Tobias Brunner](https://www.youtube.com/watch?v=yUgC2lIIy70)
 - [&quot;Kubernetes cost monitoring and management with KubeCost&quot; by Niklaus Hirt](https://www.youtube.com/watch?v=aav1NMJyVhU)
 - [An Introduction to Data Modeling for Retrieval Augmented Generation with MongoDB Atlas Vector Search](https://www.youtube.com/watch?v=SxJG5FdIDuw)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Launching Servala - The Open Cloud Native Service Hub](https://www.youtube.com/watch?v=q1n8IarpwPY)
 - [Dig Smart - Creating a Reliable Cloud-Native DNS Service for 5G at Swisscom](https://www.youtube.com/watch?v=uw7gs-klCIE)
 - [The Zühlke Platform Plane - Should it go open source?](https://www.youtube.com/watch?v=wDS-YoGoIsU)
-- [Platform Engineering on AWS](https://www.youtube.com/watch?v=hdIg4TJo-BE)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

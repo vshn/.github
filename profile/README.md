@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [DevOps Meetup bei Zühlke: Launch des DevOps in Switzerland Report 2025](https://www.vshn.ch/blog/devops-meetup-bei-zuehlke-launch-des-devops-in-switzerland-report-2025/)
 - [Swiss Software Festival 2025: Ein Fest für Software, Community und Innovation](https://www.vshn.ch/blog/swiss-software-festival-2025-ein-fest-fuer-software-community-und-innovation/)
 - [Jetzt verfügbar: DevOps in der Schweiz Report 2025 🚀](https://www.vshn.ch/blog/jetzt-verfuegbar-devops-in-der-schweiz-report-2025/)
 - [Rückblick: Cloud Native Zürich 2025 – Ein Tag voller Insights, Innovation und Community](https://www.vshn.ch/blog/rueckblick-cloud-native-zuerich-2025-ein-tag-voller-insights-innovation-und-community/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Redis 8 jetzt im VSHN Application Catalog verfügbar und Redis ist wieder Open Source!](https://www.vshn.ch/blog/redis-8-jetzt-im-vshn-application-catalog-verfuegbar-und-redis-ist-wieder-open-source/)
 - [Welcome Luca!](https://www.vshn.ch/blog/welcome-luca/)
 - [VSHN.timer #259: Open Source – Trust, Trouble &amp; Triumph](https://www.vshn.ch/blog/vshn-timer-259-open-source-trust-trouble-triumph/)
-- [VSHN Supports the First Swiss Software Festival in Basel as Matterhorn Sponsor](https://www.vshn.ch/blog/vshn-supports-the-first-swiss-software-festival-in-basel-as-matterhorn-sponsor/)
 <!-- GENERAL:END -->
 
 ## Social Media

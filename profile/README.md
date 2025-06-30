@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [&quot;Simplicity - the key to survival for a 3-person DevOps Team&quot; by Urs Enzler](https://www.youtube.com/watch?v=Arz99_vfy-U)
 - [Swiss Software Festival Basel 2025 - Recap by VSHN](https://www.youtube.com/watch?v=Zpa_hgG5ECU)
 - [&quot;Servala - the open cloud native service hub&quot; by Tobias Brunner](https://www.youtube.com/watch?v=yUgC2lIIy70)
 - [&quot;Kubernetes cost monitoring and management with KubeCost&quot; by Niklaus Hirt](https://www.youtube.com/watch?v=aav1NMJyVhU)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [&quot;From Manual To Manageable  – MongoDB Management with Terraform&quot; by Michael Ramstein](https://www.youtube.com/watch?v=y0Ll5VY2vX0)
 - [Launching Servala - The Open Cloud Native Service Hub](https://www.youtube.com/watch?v=q1n8IarpwPY)
 - [Dig Smart - Creating a Reliable Cloud-Native DNS Service for 5G at Swisscom](https://www.youtube.com/watch?v=uw7gs-klCIE)
-- [The Zühlke Platform Plane - Should it go open source?](https://www.youtube.com/watch?v=wDS-YoGoIsU)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #260: Digital Independence – Europe’s quiet revolt against Big Tech](https://www.vshn.ch/blog/vshn-timer-260-digital-independence/)
 - [Success Story mit dem Gesundheitsamt Frankfurt: VSHN gewinnt GA-Lotse-Ausschreibung zur Digitalisierung deutscher Gesundheitsämter](https://www.vshn.ch/blog/success-story-mit-dem-gesundheitsamt-frankfurt-vshn-gewinnt-ga-lotse-ausschreibung-zur-digitalisierung-deutscher-gesundheitsaemter/)
 - [DevOps Meetup bei Zühlke: Launch des DevOps in Switzerland Report 2025](https://www.vshn.ch/blog/devops-meetup-bei-zuehlke-launch-des-devops-in-switzerland-report-2025/)
 - [Swiss Software Festival 2025: Ein Fest für Software, Community und Innovation](https://www.vshn.ch/blog/swiss-software-festival-2025-ein-fest-fuer-software-community-und-innovation/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Rückblick: Cloud Native Zürich 2025 – Ein Tag voller Insights, Innovation und Community](https://www.vshn.ch/blog/rueckblick-cloud-native-zuerich-2025-ein-tag-voller-insights-innovation-und-community/)
 - [Gewinne Tickets für das Swiss Software Festival 2025](https://www.vshn.ch/blog/gewinne-tickets-fuer-das-swiss-software-festival-2025/)
 - [Redis 8 jetzt im VSHN Application Catalog verfügbar und Redis ist wieder Open Source!](https://www.vshn.ch/blog/redis-8-jetzt-im-vshn-application-catalog-verfuegbar-und-redis-ist-wieder-open-source/)
-- [Welcome Luca!](https://www.vshn.ch/blog/welcome-luca/)
 <!-- GENERAL:END -->
 
 ## Social Media

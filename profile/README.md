@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Der Weg zur digitalen Souveränität – Kickoff-Event des Netzwerk SDS in Bern](https://www.vshn.ch/blog/der-weg-zur-digitalen-souveraenitaet-kickoff-event-des-netzwerk-sds-in-bern/)
 - [Was ist Kubernetes? Der Motor der digitalen Welt einfach erklärt](https://www.vshn.ch/blog/was-ist-kubernetes-der-motor-der-digitalen-welt-einfach-erklaert/)
 - [VSHN tritt dem Netzwerk „Souveräne Digitale Schweiz &lpar;SDS&rpar;“ bei](https://www.vshn.ch/blog/vshn-tritt-dem-netzwerk-souveraene-digitale-schweiz-sds-bei/)
 - [Hi Lucius](https://www.vshn.ch/blog/hi-lucius/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN.timer #260: Digital Independence – Europe’s quiet revolt against Big Tech](https://www.vshn.ch/blog/vshn-timer-260-digital-independence/)
 - [Success Story mit dem Gesundheitsamt Frankfurt: VSHN gewinnt GA-Lotse-Ausschreibung zur Digitalisierung deutscher Gesundheitsämter](https://www.vshn.ch/blog/success-story-mit-dem-gesundheitsamt-frankfurt-vshn-gewinnt-ga-lotse-ausschreibung-zur-digitalisierung-deutscher-gesundheitsaemter/)
 - [DevOps Meetup bei Zühlke: Launch des DevOps in Switzerland Report 2025](https://www.vshn.ch/blog/devops-meetup-bei-zuehlke-launch-des-devops-in-switzerland-report-2025/)
-- [Swiss Software Festival 2025: Ein Fest für Software, Community und Innovation](https://www.vshn.ch/blog/swiss-software-festival-2025-ein-fest-fuer-software-community-und-innovation/)
 <!-- GENERAL:END -->
 
 ## Social Media

@@ -42,14 +42,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [&quot;Building Scalable AI Platforms with Platform Engineering Principles&quot; by Michael Mueller, re:cinq](https://www.youtube.com/watch?v=OhyXxmBrZ6M)
+- [&quot;Case Study: Kubernetes at the Swiss National Supercomputing Centre &lpar;CSCS&rpar;&quot; by Dino Conciatore, CSCS](https://www.youtube.com/watch?v=yjgFMzLHW7M)
 - [&quot;How we used Crossplane for the things we should not have&quot; by Liene Luksika, VSHN AG](https://www.youtube.com/watch?v=3xlkzPcRx-A)
 - [&quot;DevOps in Switzerland 2025: Trends and insights from the survey&quot; by Romano Roth &amp; Patrick Mathers](https://www.youtube.com/watch?v=1lVPeCCbA5A)
 - [&quot;Simplicity - the key to survival for a 3-person DevOps Team&quot; by Urs Enzler](https://www.youtube.com/watch?v=Arz99_vfy-U)
 - [Swiss Software Festival Basel 2025 - Recap by VSHN](https://www.youtube.com/watch?v=Zpa_hgG5ECU)
 - [&quot;Servala - the open cloud native service hub&quot; by Tobias Brunner](https://www.youtube.com/watch?v=yUgC2lIIy70)
 - [&quot;Kubernetes cost monitoring and management with KubeCost&quot; by Niklaus Hirt](https://www.youtube.com/watch?v=aav1NMJyVhU)
-- [An Introduction to Data Modeling for Retrieval Augmented Generation with MongoDB Atlas Vector Search](https://www.youtube.com/watch?v=SxJG5FdIDuw)
-- [&quot;From Manual To Manageable  – MongoDB Management with Terraform&quot; by Michael Ramstein](https://www.youtube.com/watch?v=y0Ll5VY2vX0)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

@@ -25,14 +25,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN @ Smart Country Convention 2025 in Berlin](https://www.vshn.ch/blog/vshn-smart-country-convention-2025-in-berlin/)
+- [Swiss Cloud Native Day 2025 – Ein Gipfeltreffen für Innovation und Community auf dem Gurten](https://www.vshn.ch/blog/swiss-cloud-native-day-2025-ein-gipfeltreffen-fuer-innovation-und-community-auf-dem-gurten/)
 - [Hi Mike!](https://www.vshn.ch/blog/hi-mike/)
 - [Der Weg zur digitalen Souveränität – Kickoff-Event des Netzwerk SDS in Bern](https://www.vshn.ch/blog/der-weg-zur-digitalen-souveraenitaet-kickoff-event-des-netzwerk-sds-in-bern/)
 - [Was ist Kubernetes? Der Motor der digitalen Welt einfach erklärt](https://www.vshn.ch/blog/was-ist-kubernetes-der-motor-der-digitalen-welt-einfach-erklaert/)
 - [VSHN tritt dem Netzwerk „Souveräne Digitale Schweiz &lpar;SDS&rpar;“ bei](https://www.vshn.ch/blog/vshn-tritt-dem-netzwerk-souveraene-digitale-schweiz-sds-bei/)
 - [Hi Lucius](https://www.vshn.ch/blog/hi-lucius/)
 - [VSHN.timer #261: Pipeline Power – Tools &amp; Tips for real‑World DevOps](https://www.vshn.ch/blog/vshn-timer-261-pipeline-power-tools-tips-for-real%e2%80%91world-devops/)
-- [VSHN.timer #260: Digital Independence – Europe’s quiet revolt against Big Tech](https://www.vshn.ch/blog/vshn-timer-260-digital-independence/)
-- [Success Story mit dem Gesundheitsamt Frankfurt: VSHN gewinnt GA-Lotse-Ausschreibung zur Digitalisierung deutscher Gesundheitsämter](https://www.vshn.ch/blog/success-story-mit-dem-gesundheitsamt-frankfurt-vshn-gewinnt-ga-lotse-ausschreibung-zur-digitalisierung-deutscher-gesundheitsaemter/)
 <!-- GENERAL:END -->
 
 ## Social Media

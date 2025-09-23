@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN.timer #262: Helm, Hacks, and Quantum Kubernetes: 5 reads you shouldn’t miss](https://www.vshn.ch/blog/vshn-timer-262/)
 - [VSHN @ Smart Country Convention 2025 in Berlin](https://www.vshn.ch/blog/vshn-smart-country-convention-2025-in-berlin/)
 - [Swiss Cloud Native Day 2025 – Ein Gipfeltreffen für Innovation und Community auf dem Gurten](https://www.vshn.ch/blog/swiss-cloud-native-day-2025-ein-gipfeltreffen-fuer-innovation-und-community-auf-dem-gurten/)
 - [Hi Mike!](https://www.vshn.ch/blog/hi-mike/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Was ist Kubernetes? Der Motor der digitalen Welt einfach erklärt](https://www.vshn.ch/blog/was-ist-kubernetes-der-motor-der-digitalen-welt-einfach-erklaert/)
 - [VSHN tritt dem Netzwerk „Souveräne Digitale Schweiz &lpar;SDS&rpar;“ bei](https://www.vshn.ch/blog/vshn-tritt-dem-netzwerk-souveraene-digitale-schweiz-sds-bei/)
 - [Hi Lucius](https://www.vshn.ch/blog/hi-lucius/)
-- [VSHN.timer #261: Pipeline Power – Tools &amp; Tips for real‑World DevOps](https://www.vshn.ch/blog/vshn-timer-261-pipeline-power-tools-tips-for-real%e2%80%91world-devops/)
 <!-- GENERAL:END -->
 
 ## Social Media

@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [How we used Crossplane for the things we should not have](https://www.vshn.ch/blog/how-we-used-crossplane-for-the-things-we-should-not-have/)
 - [VSHN.timer #262: Helm, Hacks, and Quantum Kubernetes: 5 reads you shouldn’t miss](https://www.vshn.ch/blog/vshn-timer-262/)
 - [VSHN @ Smart Country Convention 2025 in Berlin](https://www.vshn.ch/blog/vshn-smart-country-convention-2025-in-berlin/)
 - [Swiss Cloud Native Day 2025 – Ein Gipfeltreffen für Innovation und Community auf dem Gurten](https://www.vshn.ch/blog/swiss-cloud-native-day-2025-ein-gipfeltreffen-fuer-innovation-und-community-auf-dem-gurten/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Der Weg zur digitalen Souveränität – Kickoff-Event des Netzwerk SDS in Bern](https://www.vshn.ch/blog/der-weg-zur-digitalen-souveraenitaet-kickoff-event-des-netzwerk-sds-in-bern/)
 - [Was ist Kubernetes? Der Motor der digitalen Welt einfach erklärt](https://www.vshn.ch/blog/was-ist-kubernetes-der-motor-der-digitalen-welt-einfach-erklaert/)
 - [VSHN tritt dem Netzwerk „Souveräne Digitale Schweiz &lpar;SDS&rpar;“ bei](https://www.vshn.ch/blog/vshn-tritt-dem-netzwerk-souveraene-digitale-schweiz-sds-bei/)
-- [Hi Lucius](https://www.vshn.ch/blog/hi-lucius/)
 <!-- GENERAL:END -->
 
 ## Social Media

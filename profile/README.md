@@ -25,14 +25,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN beim Red Hat Summit: Connect in Darmstadt 2025](https://www.vshn.ch/blog/vshn-beim-red-hat-summit-connect-in-darmstadt-2025/)
+- [Hi Nabid!](https://www.vshn.ch/blog/hi-nabid/)
 - [Sovereignty Washing – Wenn „Sovereign Cloud“ nicht wirklich souverän ist](https://www.vshn.ch/blog/sovereignty-washing-wenn-sovereign-cloud-nicht-wirklich-souveraen-ist/)
 - [Crossplane ist jetzt ein Graduated CNCF Projekt](https://www.vshn.ch/blog/crossplane-ist-jetzt-ein-graduated-cncf-projekt/)
 - [VSHN @ Smart Country Convention 2025 – Rückblick aus Berlin](https://www.vshn.ch/blog/vshn-smart-country-convention-2025-rueckblick-aus-berlin/)
 - [Security Update: Red Hat Consulting GitLab Incident](https://www.vshn.ch/blog/security-update-red-hat-consulting-gitlab-incident/)
 - [How we used Crossplane for the things we should not have](https://www.vshn.ch/blog/how-we-used-crossplane-for-the-things-we-should-not-have/)
 - [VSHN.timer #262: Helm, Hacks, and Quantum Kubernetes: 5 reads you shouldn’t miss](https://www.vshn.ch/blog/vshn-timer-262/)
-- [VSHN @ Smart Country Convention 2025 in Berlin](https://www.vshn.ch/blog/vshn-smart-country-convention-2025-in-berlin/)
-- [Swiss Cloud Native Day 2025 – Ein Gipfeltreffen für Innovation und Community auf dem Gurten](https://www.vshn.ch/blog/swiss-cloud-native-day-2025-ein-gipfeltreffen-fuer-innovation-und-community-auf-dem-gurten/)
 <!-- GENERAL:END -->
 
 ## Social Media

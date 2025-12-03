@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Recap Servala Ecosystem Day 2025 – Sovereignty in Action](https://www.vshn.ch/blog/recap-servala-ecosystem-day-2025-sovereignty-in-action/)
 - [DINAcon 2025: Souveränität braucht Zusammenarbeit, Mut und echte Offenheit](https://www.vshn.ch/blog/dinacon-2025-souveraenitaet-braucht-zusammenarbeit-mut-und-echte-offenheit/)
 - [VSHN beim Red Hat Summit: Connect in Darmstadt 2025](https://www.vshn.ch/blog/vshn-beim-red-hat-summit-connect-in-darmstadt-2025/)
 - [Hi Nabid!](https://www.vshn.ch/blog/hi-nabid/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Crossplane ist jetzt ein Graduated CNCF Projekt](https://www.vshn.ch/blog/crossplane-ist-jetzt-ein-graduated-cncf-projekt/)
 - [VSHN @ Smart Country Convention 2025 – Rückblick aus Berlin](https://www.vshn.ch/blog/vshn-smart-country-convention-2025-rueckblick-aus-berlin/)
 - [Security Update: Red Hat Consulting GitLab Incident](https://www.vshn.ch/blog/security-update-red-hat-consulting-gitlab-incident/)
-- [How we used Crossplane for the things we should not have](https://www.vshn.ch/blog/how-we-used-crossplane-for-the-things-we-should-not-have/)
 <!-- GENERAL:END -->
 
 ## Social Media

@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN beim Red Hat Summit: Connect 2026 in Zürich im Januar – wir sind wieder als Silver Sponsor dabei](https://www.vshn.ch/blog/vshn-beim-red-hat-summit-connect-2026-in-zuerich-im-januar-wir-sind-wieder-als-silver-sponsor-dabei/)
 - [KCD Suisse Romande 2025 at CERN – Community, Cloud Native, and Two Great Days in Geneva](https://www.vshn.ch/blog/kcd-suisse-romande-2025-at-cern-community-cloud-native-and-two-great-days-in-geneva/)
 - [Coming Full Circle: Reconnecting with Canada at the Invest in Canada Roadshow](https://www.vshn.ch/blog/coming-full-circle-reconnecting-with-canada-at-the-invest-in-canada-roadshow/)
 - [Recap Servala Ecosystem Day 2025 – Sovereignty in Action](https://www.vshn.ch/blog/recap-servala-ecosystem-day-2025-sovereignty-in-action/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN beim Red Hat Summit: Connect in Darmstadt 2025](https://www.vshn.ch/blog/vshn-beim-red-hat-summit-connect-in-darmstadt-2025/)
 - [Hi Nabid!](https://www.vshn.ch/blog/hi-nabid/)
 - [Sovereignty Washing – Wenn „Sovereign Cloud“ nicht wirklich souverän ist](https://www.vshn.ch/blog/sovereignty-washing-wenn-sovereign-cloud-nicht-wirklich-souveraen-ist/)
-- [Crossplane ist jetzt ein Graduated CNCF Projekt](https://www.vshn.ch/blog/crossplane-ist-jetzt-ein-graduated-cncf-projekt/)
 <!-- GENERAL:END -->
 
 ## Social Media

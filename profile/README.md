@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN Year in Review 2025](https://www.vshn.ch/blog/vshn-year-in-review-2025/)
 - [Hi Roland](https://www.vshn.ch/blog/hi-roland/)
 - [VSHN an der KubeCon Europe 2026 in Amsterdam – wir freuen uns auf dich!](https://www.vshn.ch/blog/vshn-an-der-kubecon-europe-2026-in-amsterdam-wir-freuen-uns-auf-dich-2/)
 - [VSHN beim Red Hat Summit: Connect 2026 in Zürich im Januar – wir sind wieder als Silver Sponsor dabei](https://www.vshn.ch/blog/vshn-beim-red-hat-summit-connect-2026-in-zuerich-im-januar-wir-sind-wieder-als-silver-sponsor-dabei/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Coming Full Circle: Reconnecting with Canada at the Invest in Canada Roadshow](https://www.vshn.ch/blog/coming-full-circle-reconnecting-with-canada-at-the-invest-in-canada-roadshow/)
 - [Recap Servala Ecosystem Day 2025 – Sovereignty in Action](https://www.vshn.ch/blog/recap-servala-ecosystem-day-2025-sovereignty-in-action/)
 - [DINAcon 2025: Souveränität braucht Zusammenarbeit, Mut und echte Offenheit](https://www.vshn.ch/blog/dinacon-2025-souveraenitaet-braucht-zusammenarbeit-mut-und-echte-offenheit/)
-- [VSHN beim Red Hat Summit: Connect in Darmstadt 2025](https://www.vshn.ch/blog/vshn-beim-red-hat-summit-connect-in-darmstadt-2025/)
 <!-- GENERAL:END -->
 
 ## Social Media

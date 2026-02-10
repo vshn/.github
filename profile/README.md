@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Sovereignty in Practice Study 2026 – jetzt teilnehmen](https://www.vshn.ch/blog/sovereignty-in-practice-study-2026-jetzt-teilnehmen/)
 - [VSHN gewinnt „Biggest Microgateway Deal 2025“ beim Ergon Airlock Partner Event](https://www.vshn.ch/blog/vshn-gewinnt-biggest-microgateway-deal-2025-beim-ergon-airlock-partner-event/)
 - [Recap Red Hat Summit: Connect Switzerland 2026 in Zürich](https://www.vshn.ch/blog/recap-red-hat-summit-connect-switzerland-2026-in-zuerich/)
 - [VSHN Year in Review 2025](https://www.vshn.ch/blog/vshn-year-in-review-2025/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN an der KubeCon Europe 2026 in Amsterdam – wir freuen uns auf dich!](https://www.vshn.ch/blog/vshn-an-der-kubecon-europe-2026-in-amsterdam-wir-freuen-uns-auf-dich-2/)
 - [VSHN beim Red Hat Summit: Connect 2026 in Zürich im Januar – wir sind wieder als Silver Sponsor dabei](https://www.vshn.ch/blog/vshn-beim-red-hat-summit-connect-2026-in-zuerich-im-januar-wir-sind-wieder-als-silver-sponsor-dabei/)
 - [KCD Suisse Romande 2025 at CERN – Community, Cloud Native, and Two Great Days in Geneva](https://www.vshn.ch/blog/kcd-suisse-romande-2025-at-cern-community-cloud-native-and-two-great-days-in-geneva/)
-- [Coming Full Circle: Reconnecting with Canada at the Invest in Canada Roadshow](https://www.vshn.ch/blog/coming-full-circle-reconnecting-with-canada-at-the-invest-in-canada-roadshow/)
 <!-- GENERAL:END -->
 
 ## Social Media

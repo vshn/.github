@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Cloud Native Computing Switzerland Meetup – März 2026 Recap](https://www.vshn.ch/blog/cloud-native-computing-switzerland-meetup-maerz-2026-recap/)
 - [DevOps für AI: LLMs in Produktion mit Kubernetes und Kubeflow betreiben](https://www.vshn.ch/blog/devops-fuer-ai-llms-in-produktion-mit-kubernetes-und-kubeflow-betreiben/)
 - [Beste Kubernetes Distributionen 2026 – und warum du sie vielleicht nicht selbst betreiben solltest](https://www.vshn.ch/blog/beste-kubernetes-distributionen-2026-und-warum-du-sie-vielleicht-nicht-selbst-betreiben-solltest/)
 - [Sovereignty in Practice Study 2026 – jetzt teilnehmen](https://www.vshn.ch/blog/sovereignty-in-practice-study-2026-jetzt-teilnehmen/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Recap Red Hat Summit: Connect Switzerland 2026 in Zürich](https://www.vshn.ch/blog/recap-red-hat-summit-connect-switzerland-2026-in-zuerich/)
 - [VSHN Year in Review 2025](https://www.vshn.ch/blog/vshn-year-in-review-2025/)
 - [Hi Roland](https://www.vshn.ch/blog/hi-roland/)
-- [VSHN an der KubeCon Europe 2026 in Amsterdam – wir freuen uns auf dich!](https://www.vshn.ch/blog/vshn-an-der-kubecon-europe-2026-in-amsterdam-wir-freuen-uns-auf-dich-2/)
 <!-- GENERAL:END -->
 
 ## Social Media

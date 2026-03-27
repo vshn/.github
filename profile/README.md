@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [KubeCon Europe 2026 Recap – Souveränität, AI Agents und eine starke Community](https://www.vshn.ch/blog/kubecon-europe-2026-recap-souveraenitaet-ai-agents-und-eine-starke-community/)
 - [VSHN AppCat Update – Verbesserte Zuverlässigkeit, Betrieb und Entwicklerplattformen](https://www.vshn.ch/blog/vshn-appcat-update-verbesserte-zuverlaessigkeit-betrieb-und-entwicklerplattformen/)
 - [VSHN erhält Red Hat Partner Award 2025 für Plattformmodernisierung](https://www.vshn.ch/blog/vshn-erhaelt-red-hat-partner-award-2025-fuer-plattformmodernisierung/)
 - [Cloud Native Computing Switzerland Meetup – März 2026 Recap](https://www.vshn.ch/blog/cloud-native-computing-switzerland-meetup-maerz-2026-recap/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Beste Kubernetes Distributionen 2026 – und warum du sie vielleicht nicht selbst betreiben solltest](https://www.vshn.ch/blog/beste-kubernetes-distributionen-2026-und-warum-du-sie-vielleicht-nicht-selbst-betreiben-solltest/)
 - [Sovereignty in Practice Study 2026 – jetzt teilnehmen](https://www.vshn.ch/blog/sovereignty-in-practice-study-2026-jetzt-teilnehmen/)
 - [VSHN gewinnt „Biggest Microgateway Deal 2025“ beim Ergon Airlock Partner Event](https://www.vshn.ch/blog/vshn-gewinnt-biggest-microgateway-deal-2025-beim-ergon-airlock-partner-event/)
-- [Recap Red Hat Summit: Connect Switzerland 2026 in Zürich](https://www.vshn.ch/blog/recap-red-hat-summit-connect-switzerland-2026-in-zuerich/)
 <!-- GENERAL:END -->
 
 ## Social Media

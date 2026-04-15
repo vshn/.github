@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Espejote: Eine GitOps-Reise](https://www.vshn.ch/blog/espejote-eine-gitops-reise/)
 - [VSHN AppCat Update – Mehr Flexibilität für PostgreSQL und höhere Betriebssicherheit auf der Plattform](https://www.vshn.ch/blog/vshn-appcat-update-mehr-flexibilitaet-fuer-postgresql-und-hoehere-betriebssicherheit-auf-der-plattform/)
 - [KubeCon Europe 2026 Recap – Souveränität, AI Agents und eine starke Community](https://www.vshn.ch/blog/kubecon-europe-2026-recap-souveraenitaet-ai-agents-und-eine-starke-community/)
 - [VSHN AppCat Update – Verbesserte Zuverlässigkeit, Betrieb und Entwicklerplattformen](https://www.vshn.ch/blog/vshn-appcat-update-verbesserte-zuverlaessigkeit-betrieb-und-entwicklerplattformen/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Cloud Native Computing Switzerland Meetup – März 2026 Recap](https://www.vshn.ch/blog/cloud-native-computing-switzerland-meetup-maerz-2026-recap/)
 - [DevOps für AI: LLMs in Produktion mit Kubernetes und Kubeflow betreiben](https://www.vshn.ch/blog/devops-fuer-ai-llms-in-produktion-mit-kubernetes-und-kubeflow-betreiben/)
 - [Beste Kubernetes Distributionen 2026 – und warum du sie vielleicht nicht selbst betreiben solltest](https://www.vshn.ch/blog/beste-kubernetes-distributionen-2026-und-warum-du-sie-vielleicht-nicht-selbst-betreiben-solltest/)
-- [Sovereignty in Practice Study 2026 – jetzt teilnehmen](https://www.vshn.ch/blog/sovereignty-in-practice-study-2026-jetzt-teilnehmen/)
 <!-- GENERAL:END -->
 
 ## Social Media

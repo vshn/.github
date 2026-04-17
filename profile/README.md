@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN AppCat Update – Grosse PostgreSQL Upgrades und mehr Kontrolle über Kosten](https://www.vshn.ch/blog/vshn-appcat-update-grosse-postgresql-upgrades-und-mehr-kontrolle-ueber-kosten/)
 - [Espejote: Eine GitOps-Reise](https://www.vshn.ch/blog/espejote-eine-gitops-reise/)
 - [VSHN AppCat Update – Mehr Flexibilität für PostgreSQL und höhere Betriebssicherheit auf der Plattform](https://www.vshn.ch/blog/vshn-appcat-update-mehr-flexibilitaet-fuer-postgresql-und-hoehere-betriebssicherheit-auf-der-plattform/)
 - [KubeCon Europe 2026 Recap – Souveränität, AI Agents und eine starke Community](https://www.vshn.ch/blog/kubecon-europe-2026-recap-souveraenitaet-ai-agents-und-eine-starke-community/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN erhält Red Hat Partner Award 2025 für Plattformmodernisierung](https://www.vshn.ch/blog/vshn-erhaelt-red-hat-partner-award-2025-fuer-plattformmodernisierung/)
 - [Cloud Native Computing Switzerland Meetup – März 2026 Recap](https://www.vshn.ch/blog/cloud-native-computing-switzerland-meetup-maerz-2026-recap/)
 - [DevOps für AI: LLMs in Produktion mit Kubernetes und Kubeflow betreiben](https://www.vshn.ch/blog/devops-fuer-ai-llms-in-produktion-mit-kubernetes-und-kubeflow-betreiben/)
-- [Beste Kubernetes Distributionen 2026 – und warum du sie vielleicht nicht selbst betreiben solltest](https://www.vshn.ch/blog/beste-kubernetes-distributionen-2026-und-warum-du-sie-vielleicht-nicht-selbst-betreiben-solltest/)
 <!-- GENERAL:END -->
 
 ## Social Media

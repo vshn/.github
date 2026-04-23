@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Codey ist Live: Neue Features &amp; Preis sichern bis 30. April](https://www.vshn.ch/blog/codey-ist-live-neue-features-preis-sichern-bis-30-april/)
 - [VSHN an den DevOpsDays Zürich 2026](https://www.vshn.ch/blog/vshn-an-den-devopsdays-zuerich-2026/)
 - [VSHN AppCat Update – Grosse PostgreSQL Upgrades und mehr Kontrolle über Kosten](https://www.vshn.ch/blog/vshn-appcat-update-grosse-postgresql-upgrades-und-mehr-kontrolle-ueber-kosten/)
 - [Espejote: Eine GitOps-Reise](https://www.vshn.ch/blog/espejote-eine-gitops-reise/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [KubeCon Europe 2026 Recap – Souveränität, AI Agents und eine starke Community](https://www.vshn.ch/blog/kubecon-europe-2026-recap-souveraenitaet-ai-agents-und-eine-starke-community/)
 - [VSHN AppCat Update – Verbesserte Zuverlässigkeit, Betrieb und Entwicklerplattformen](https://www.vshn.ch/blog/vshn-appcat-update-verbesserte-zuverlaessigkeit-betrieb-und-entwicklerplattformen/)
 - [VSHN erhält Red Hat Partner Award 2025 für Plattformmodernisierung](https://www.vshn.ch/blog/vshn-erhaelt-red-hat-partner-award-2025-fuer-plattformmodernisierung/)
-- [Cloud Native Computing Switzerland Meetup – März 2026 Recap](https://www.vshn.ch/blog/cloud-native-computing-switzerland-meetup-maerz-2026-recap/)
 <!-- GENERAL:END -->
 
 ## Social Media

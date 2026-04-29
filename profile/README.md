@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN AppCat Update – CloudNativePG PostgreSQL ist jetzt vollständig in AppCat verfügbar](https://www.vshn.ch/blog/vshn-appcat-update-cloudnativepg-postgresql-ist-jetzt-vollstaendig-in-appcat-verfuegbar/)
 - [EUR 180 Millionen für Sovereign Cloud: Was die erste souveränitätsbewertete Ausschreibung der EU für Schweizer Organisationen bedeutet](https://www.vshn.ch/blog/eur-180-millionen-fuer-sovereign-cloud-was-die-erste-souveraenitaetsbewertete-ausschreibung-der-eu-fuer-schweizer-organisationen-bedeutet/)
 - [Codey ist Live: Neue Features &amp; Preis sichern bis 30. April](https://www.vshn.ch/blog/codey-ist-live-neue-features-preis-sichern-bis-30-april/)
 - [VSHN an den DevOpsDays Zürich 2026](https://www.vshn.ch/blog/vshn-an-den-devopsdays-zuerich-2026/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Espejote: Eine GitOps-Reise](https://www.vshn.ch/blog/espejote-eine-gitops-reise/)
 - [VSHN AppCat Update – Mehr Flexibilität für PostgreSQL und höhere Betriebssicherheit auf der Plattform](https://www.vshn.ch/blog/vshn-appcat-update-mehr-flexibilitaet-fuer-postgresql-und-hoehere-betriebssicherheit-auf-der-plattform/)
 - [KubeCon Europe 2026 Recap – Souveränität, AI Agents und eine starke Community](https://www.vshn.ch/blog/kubecon-europe-2026-recap-souveraenitaet-ai-agents-und-eine-starke-community/)
-- [VSHN AppCat Update – Verbesserte Zuverlässigkeit, Betrieb und Entwicklerplattformen](https://www.vshn.ch/blog/vshn-appcat-update-verbesserte-zuverlaessigkeit-betrieb-und-entwicklerplattformen/)
 <!-- GENERAL:END -->
 
 ## Social Media

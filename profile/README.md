@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [TRANSFORM 2026 – Warum Open Source digitale Souveränität konkret macht](https://www.vshn.ch/blog/transform-2026-warum-open-source-digitale-souveraenitaet-konkret-macht/)
 - [VSHN ist Gründungsmitglied des Zentrums SDS – Souveräne Digitale Schweiz](https://www.vshn.ch/blog/vshn-ist-gruendungsmitglied-des-zentrums-sds-souveraene-digitale-schweiz/)
 - [VSHN AppCat Update – CloudNativePG PostgreSQL ist jetzt vollständig in AppCat verfügbar](https://www.vshn.ch/blog/vshn-appcat-update-cloudnativepg-postgresql-ist-jetzt-vollstaendig-in-appcat-verfuegbar/)
 - [EUR 180 Millionen für Sovereign Cloud: Was die erste souveränitätsbewertete Ausschreibung der EU für Schweizer Organisationen bedeutet](https://www.vshn.ch/blog/eur-180-millionen-fuer-sovereign-cloud-was-die-erste-souveraenitaetsbewertete-ausschreibung-der-eu-fuer-schweizer-organisationen-bedeutet/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN an den DevOpsDays Zürich 2026](https://www.vshn.ch/blog/vshn-an-den-devopsdays-zuerich-2026/)
 - [VSHN AppCat Update – Grosse PostgreSQL Upgrades und mehr Kontrolle über Kosten](https://www.vshn.ch/blog/vshn-appcat-update-grosse-postgresql-upgrades-und-mehr-kontrolle-ueber-kosten/)
 - [Espejote: Eine GitOps-Reise](https://www.vshn.ch/blog/espejote-eine-gitops-reise/)
-- [VSHN AppCat Update – Mehr Flexibilität für PostgreSQL und höhere Betriebssicherheit auf der Plattform](https://www.vshn.ch/blog/vshn-appcat-update-mehr-flexibilitaet-fuer-postgresql-und-hoehere-betriebssicherheit-auf-der-plattform/)
 <!-- GENERAL:END -->
 
 ## Social Media

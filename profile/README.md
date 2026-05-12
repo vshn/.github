@@ -25,14 +25,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [VSHN ist wieder Sponsor der Cloud Native Zürich 2026](https://www.vshn.ch/blog/vshn-ist-wieder-sponsor-der-cloud-native-zuerich-2026/)
+- [VSHN AppCat Update – Servala Grundlagen, Garage Monitoring und OpenBao Sneak Peek](https://www.vshn.ch/blog/vshn-appcat-update-servala-grundlagen-garage-monitoring-und-openbao-sneak-peek/)
 - [DevOpsDays Zürich 2026 – Immer noch eines der besten Community-Events der Tech-Szene](https://www.vshn.ch/blog/devopsdays-zuerich-2026-immer-noch-eines-der-besten-community-events-der-tech-szene/)
 - [TRANSFORM 2026 – Warum Open Source digitale Souveränität konkret macht](https://www.vshn.ch/blog/transform-2026-warum-open-source-digitale-souveraenitaet-konkret-macht/)
 - [VSHN ist Gründungsmitglied des Zentrums SDS – Souveräne Digitale Schweiz](https://www.vshn.ch/blog/vshn-ist-gruendungsmitglied-des-zentrums-sds-souveraene-digitale-schweiz/)
 - [VSHN AppCat Update – CloudNativePG PostgreSQL ist jetzt vollständig in AppCat verfügbar](https://www.vshn.ch/blog/vshn-appcat-update-cloudnativepg-postgresql-ist-jetzt-vollstaendig-in-appcat-verfuegbar/)
 - [EUR 180 Millionen für Sovereign Cloud: Was die erste souveränitätsbewertete Ausschreibung der EU für Schweizer Organisationen bedeutet](https://www.vshn.ch/blog/eur-180-millionen-fuer-sovereign-cloud-was-die-erste-souveraenitaetsbewertete-ausschreibung-der-eu-fuer-schweizer-organisationen-bedeutet/)
 - [Codey ist Live: Neue Features &amp; Preis sichern bis 30. April](https://www.vshn.ch/blog/codey-ist-live-neue-features-preis-sichern-bis-30-april/)
-- [VSHN an den DevOpsDays Zürich 2026](https://www.vshn.ch/blog/vshn-an-den-devopsdays-zuerich-2026/)
-- [VSHN AppCat Update – Grosse PostgreSQL Upgrades und mehr Kontrolle über Kosten](https://www.vshn.ch/blog/vshn-appcat-update-grosse-postgresql-upgrades-und-mehr-kontrolle-ueber-kosten/)
 <!-- GENERAL:END -->
 
 ## Social Media

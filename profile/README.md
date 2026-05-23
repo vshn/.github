@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Cloud Native Computing Switzerland Meetup Mai 2026 Recap](https://www.vshn.ch/blog/cloud-native-computing-switzerland-meetup-mai-2026-recap/)
 - [VSHN ist wieder Matterhorn-Sponsor des Swiss Software Festival 2026](https://www.vshn.ch/blog/vshn-ist-wieder-matterhorn-sponsor-des-swiss-software-festival-2026/)
 - [Digitale Souveränität made in Switzerland: HIN wird globale Red Hat Success Story](https://www.vshn.ch/blog/digitale-souveraenitaet-made-in-switzerland-hin-wird-globale-red-hat-success-story/)
 - [VSHN ist wieder Sponsor der Cloud Native Zürich 2026](https://www.vshn.ch/blog/vshn-ist-wieder-sponsor-der-cloud-native-zuerich-2026/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [DevOpsDays Zürich 2026 – Immer noch eines der besten Community-Events der Tech-Szene](https://www.vshn.ch/blog/devopsdays-zuerich-2026-immer-noch-eines-der-besten-community-events-der-tech-szene/)
 - [TRANSFORM 2026 – Warum Open Source digitale Souveränität konkret macht](https://www.vshn.ch/blog/transform-2026-warum-open-source-digitale-souveraenitaet-konkret-macht/)
 - [VSHN ist Gründungsmitglied des Zentrums SDS – Souveräne Digitale Schweiz](https://www.vshn.ch/blog/vshn-ist-gruendungsmitglied-des-zentrums-sds-souveraene-digitale-schweiz/)
-- [VSHN AppCat Update – CloudNativePG PostgreSQL ist jetzt vollständig in AppCat verfügbar](https://www.vshn.ch/blog/vshn-appcat-update-cloudnativepg-postgresql-ist-jetzt-vollstaendig-in-appcat-verfuegbar/)
 <!-- GENERAL:END -->
 
 ## Social Media

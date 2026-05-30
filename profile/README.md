@@ -42,14 +42,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
-- [DevOpsDays Zurich 2026 VSHN Talk by Aarno Aukia](https://www.youtube.com/watch?v=rKvdSs2C-kI)
-- [Servala Ecosystem Day 2025 - Sovereignty in Action](https://www.youtube.com/watch?v=lcnZZ2J193I)
-- [&quot;Building Scalable AI Platforms with Platform Engineering Principles&quot; by Michael Mueller, re:cinq](https://www.youtube.com/watch?v=OhyXxmBrZ6M)
-- [&quot;Case Study: Kubernetes at the Swiss National Supercomputing Centre &lpar;CSCS&rpar;&quot; by Dino Conciatore, CSCS](https://www.youtube.com/watch?v=yjgFMzLHW7M)
-- [&quot;How we used Crossplane for the things we should not have&quot; by Liene Luksika, VSHN AG](https://www.youtube.com/watch?v=3xlkzPcRx-A)
-- [&quot;DevOps in Switzerland 2025: Trends and insights from the survey&quot; by Romano Roth &amp; Patrick Mathers](https://www.youtube.com/watch?v=1lVPeCCbA5A)
-- [&quot;Simplicity - the key to survival for a 3-person DevOps Team&quot; by Urs Enzler](https://www.youtube.com/watch?v=Arz99_vfy-U)
-- [Swiss Software Festival Basel 2025 - Recap by VSHN](https://www.youtube.com/watch?v=Zpa_hgG5ECU)
+- [&quot;Bye-bye Ingress-NGINX, hello Gateway API&quot; by Urs Zurbuchen, Airlock](https://www.youtube.com/watch?v=a7gjwzIkEOg)
+- [&quot;From Problem to Production: DevOps for AI with Kubeflow&quot; by Fabrizio Lazzaretti &amp; Marco Crisafulli](https://www.youtube.com/watch?v=vgTMXM3nXjA)
+- [&quot;Cloud-Native Application Definition and Delivery with OAM and KubeVela&quot; by Raffael Klingler, AXA](https://www.youtube.com/watch?v=fLIuRve_MGQ)
+- [&quot;TLS Hot Reload&quot; by Janne Kataja, SIX Group](https://www.youtube.com/watch?v=Im9sFXMI-zY)
+- [&quot;Kuberik: Safe, Hands-Off Deployments for Kubernetes&quot; by Luka Rumora](https://www.youtube.com/watch?v=cdOFr3pGKmU)
+- [&quot;Kubernetes without the Operator: A Minecraft Panel with Rust and kube-rs&quot; by Hadi Cherkaoui](https://www.youtube.com/watch?v=vu-yR-z46xU)
+- [&quot;Vibe Code Survival Guide for Open-Source&quot; by Vadim Bauer, container-registry.com](https://www.youtube.com/watch?v=BJOW7RV4zRY)
+- [&quot;Writing a Kubernetes Cluster Autoscaler Provider with externalgrpc&quot; by Marco De Luca, VSHN AG](https://www.youtube.com/watch?v=TPge3uNGE04)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

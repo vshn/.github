@@ -25,14 +25,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Switch tritt Servala als Cloud Service Provider bei und stärkt die digitale Souveränität der Schweiz](https://www.vshn.ch/blog/switch-tritt-servala-als-cloud-service-provider-bei-und-staerkt-die-digitale-souveraenitaet-der-schweiz/)
+- [AppCat Update – StackGres End of Life Ankündigung](https://www.vshn.ch/blog/appcat-update-stackgres-end-of-life-ankuendigung/)
 - [Eine Tour durch unser digital-souveränes Ökosystem – Liene am KCD Czech &amp; Slovak 2026](https://www.vshn.ch/blog/eine-tour-durch-unser-digital-souveraenes-oekosystem-liene-am-kcd-czech-slovak-2026/)
 - [VSHN AppCat Update – CloudNativePG wird neuer Standard für PostgreSQL](https://www.vshn.ch/blog/vshn-appcat-update-cloudnativepg-wird-neuer-standard-fuer-postgresql/)
 - [Writing a Kubernetes Cluster Autoscaler Provider with externalgrpc](https://www.vshn.ch/blog/writing-a-kubernetes-cluster-autoscaler-provider-with-externalgrpc/)
 - [Cloud Native Computing Switzerland Meetup Mai 2026 Recap](https://www.vshn.ch/blog/cloud-native-computing-switzerland-meetup-mai-2026-recap/)
 - [VSHN ist wieder Matterhorn-Sponsor des Swiss Software Festival 2026](https://www.vshn.ch/blog/vshn-ist-wieder-matterhorn-sponsor-des-swiss-software-festival-2026/)
 - [Digitale Souveränität made in Switzerland: HIN wird globale Red Hat Success Story](https://www.vshn.ch/blog/digitale-souveraenitaet-made-in-switzerland-hin-wird-globale-red-hat-success-story/)
-- [VSHN ist wieder Sponsor der Cloud Native Zürich 2026](https://www.vshn.ch/blog/vshn-ist-wieder-sponsor-der-cloud-native-zuerich-2026/)
-- [VSHN AppCat Update – Servala Grundlagen, Garage Monitoring und OpenBao Sneak Peek](https://www.vshn.ch/blog/vshn-appcat-update-servala-grundlagen-garage-monitoring-und-openbao-sneak-peek/)
 <!-- GENERAL:END -->
 
 ## Social Media

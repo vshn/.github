@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Building a Modern Load Balancer and NAT gateway with Fedora bootable containers](https://www.vshn.ch/blog/building-a-modern-load-balancer-and-nat-gateway-with-fedora-bootable-containers/)
 - [Gewinne Tickets für das Swiss Software Festival 2026](https://www.vshn.ch/blog/gewinne-tickets-fuer-das-swiss-software-festival-2026/)
 - [Open Source als Staatspolitik: Was die EU-Strategie und der Ständeratsentscheid für IT-Entscheider bedeuten](https://www.vshn.ch/blog/open-source-als-staatspolitik-was-die-eu-strategie-und-der-staenderatsentscheid-fuer-it-entscheider-bedeuten/)
 - [Cloud Native Zürich 2026 Recap](https://www.vshn.ch/blog/cloud-native-zuerich-2026-recap/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Switch tritt Servala als Cloud Service Provider bei und stärkt die digitale Souveränität der Schweiz](https://www.vshn.ch/blog/switch-tritt-servala-als-cloud-service-provider-bei-und-staerkt-die-digitale-souveraenitaet-der-schweiz/)
 - [AppCat Update – StackGres End of Life Ankündigung](https://www.vshn.ch/blog/appcat-update-stackgres-end-of-life-ankuendigung/)
 - [Eine Tour durch unser digital-souveränes Ökosystem – Liene am KCD Czech &amp; Slovak 2026](https://www.vshn.ch/blog/eine-tour-durch-unser-digital-souveraenes-oekosystem-liene-am-kcd-czech-slovak-2026/)
-- [VSHN AppCat Update – CloudNativePG wird neuer Standard für PostgreSQL](https://www.vshn.ch/blog/vshn-appcat-update-cloudnativepg-wird-neuer-standard-fuer-postgresql/)
 <!-- GENERAL:END -->
 
 ## Social Media

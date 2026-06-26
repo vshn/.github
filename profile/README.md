@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Digital Neutrality: Switzerland’s Engineering Advantage Aarno Aukia VSHN Swiss Software Festival](https://www.youtube.com/watch?v=0MmV4hDfPcM)
 - [&quot;Bye-bye Ingress-NGINX, hello Gateway API&quot; by Urs Zurbuchen, Airlock](https://www.youtube.com/watch?v=a7gjwzIkEOg)
 - [&quot;From Problem to Production: DevOps for AI with Kubeflow&quot; by Fabrizio Lazzaretti &amp; Marco Crisafulli](https://www.youtube.com/watch?v=vgTMXM3nXjA)
 - [&quot;Cloud-Native Application Definition and Delivery with OAM and KubeVela&quot; by Raffael Klingler, AXA](https://www.youtube.com/watch?v=fLIuRve_MGQ)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [&quot;Kuberik: Safe, Hands-Off Deployments for Kubernetes&quot; by Luka Rumora](https://www.youtube.com/watch?v=cdOFr3pGKmU)
 - [&quot;Kubernetes without the Operator: A Minecraft Panel with Rust and kube-rs&quot; by Hadi Cherkaoui](https://www.youtube.com/watch?v=vu-yR-z46xU)
 - [&quot;Vibe Code Survival Guide for Open-Source&quot; by Vadim Bauer, container-registry.com](https://www.youtube.com/watch?v=BJOW7RV4zRY)
-- [&quot;Writing a Kubernetes Cluster Autoscaler Provider with externalgrpc&quot; by Marco De Luca, VSHN AG](https://www.youtube.com/watch?v=TPge3uNGE04)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

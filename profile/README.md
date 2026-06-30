@@ -25,14 +25,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Warum „Buy European“ nicht reicht: Was die Schweiz bei der digitalen Souveränität wirklich tun sollte](https://www.vshn.ch/blog/warum-buy-european-nicht-reicht-was-die-schweiz-bei-der-digitalen-souveraenitaet-wirklich-tun-sollte/)
+- [Switch Cloud Forward Forum Day 2026 Recap](https://www.vshn.ch/blog/switch-cloud-forward-forum-day-2026-recap/)
 - [Swiss Software Festival Basel 2026 Recap](https://www.vshn.ch/blog/swiss-software-festival-basel-2026-recap/)
 - [Building a Modern Load Balancer and NAT gateway with Fedora bootable containers](https://www.vshn.ch/blog/building-a-modern-load-balancer-and-nat-gateway-with-fedora-bootable-containers/)
 - [Gewinne Tickets für das Swiss Software Festival 2026](https://www.vshn.ch/blog/gewinne-tickets-fuer-das-swiss-software-festival-2026/)
 - [Open Source als Staatspolitik: Was die EU-Strategie und der Ständeratsentscheid für IT-Entscheider bedeuten](https://www.vshn.ch/blog/open-source-als-staatspolitik-was-die-eu-strategie-und-der-staenderatsentscheid-fuer-it-entscheider-bedeuten/)
 - [Cloud Native Zürich 2026 Recap](https://www.vshn.ch/blog/cloud-native-zuerich-2026-recap/)
 - [Digitale Souveränität – Perspektiven aus dem Ökosystem](https://www.vshn.ch/blog/digitale-souveraenitaet-perspektiven-aus-dem-oekosystem/)
-- [Switch tritt Servala als Cloud Service Provider bei und stärkt die digitale Souveränität der Schweiz](https://www.vshn.ch/blog/switch-tritt-servala-als-cloud-service-provider-bei-und-staerkt-die-digitale-souveraenitaet-der-schweiz/)
-- [AppCat Update – StackGres End of Life Ankündigung](https://www.vshn.ch/blog/appcat-update-stackgres-end-of-life-ankuendigung/)
 <!-- GENERAL:END -->
 
 ## Social Media

@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Swiss Software Festival 2026 VSHN Recap Slideshow](https://www.youtube.com/watch?v=f9-9n4dXet4)
 - [Digital Neutrality: Switzerland’s Engineering Advantage Aarno Aukia VSHN Swiss Software Festival](https://www.youtube.com/watch?v=0MmV4hDfPcM)
 - [&quot;Bye-bye Ingress-NGINX, hello Gateway API&quot; by Urs Zurbuchen, Airlock](https://www.youtube.com/watch?v=a7gjwzIkEOg)
 - [&quot;From Problem to Production: DevOps for AI with Kubeflow&quot; by Fabrizio Lazzaretti &amp; Marco Crisafulli](https://www.youtube.com/watch?v=vgTMXM3nXjA)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [&quot;TLS Hot Reload&quot; by Janne Kataja, SIX Group](https://www.youtube.com/watch?v=Im9sFXMI-zY)
 - [&quot;Kuberik: Safe, Hands-Off Deployments for Kubernetes&quot; by Luka Rumora](https://www.youtube.com/watch?v=cdOFr3pGKmU)
 - [&quot;Kubernetes without the Operator: A Minecraft Panel with Rust and kube-rs&quot; by Hadi Cherkaoui](https://www.youtube.com/watch?v=vu-yR-z46xU)
-- [&quot;Vibe Code Survival Guide for Open-Source&quot; by Vadim Bauer, container-registry.com](https://www.youtube.com/watch?v=BJOW7RV4zRY)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Souveräne Infrastruktur für den öffentlichen Gesundheitsdienst: Gesundheitsamt Frankfurt wird zur globalen Red Hat Success Story](https://www.vshn.ch/blog/souveraene-infrastruktur-fuer-den-oeffentlichen-gesundheitsdienst-gesundheitsamt-frankfurt-wird-zur-globalen-red-hat-success-story/)
 - [Warum „Buy European“ nicht reicht: Was die Schweiz bei der digitalen Souveränität wirklich tun sollte](https://www.vshn.ch/blog/warum-buy-european-nicht-reicht-was-die-schweiz-bei-der-digitalen-souveraenitaet-wirklich-tun-sollte/)
 - [Switch Cloud Forward Forum Day 2026 Recap](https://www.vshn.ch/blog/switch-cloud-forward-forum-day-2026-recap/)
 - [Swiss Software Festival Basel 2026 Recap](https://www.vshn.ch/blog/swiss-software-festival-basel-2026-recap/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Gewinne Tickets für das Swiss Software Festival 2026](https://www.vshn.ch/blog/gewinne-tickets-fuer-das-swiss-software-festival-2026/)
 - [Open Source als Staatspolitik: Was die EU-Strategie und der Ständeratsentscheid für IT-Entscheider bedeuten](https://www.vshn.ch/blog/open-source-als-staatspolitik-was-die-eu-strategie-und-der-staenderatsentscheid-fuer-it-entscheider-bedeuten/)
 - [Cloud Native Zürich 2026 Recap](https://www.vshn.ch/blog/cloud-native-zuerich-2026-recap/)
-- [Digitale Souveränität – Perspektiven aus dem Ökosystem](https://www.vshn.ch/blog/digitale-souveraenitaet-perspektiven-aus-dem-oekosystem/)
 <!-- GENERAL:END -->
 
 ## Social Media

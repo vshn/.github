@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Liene am Open Source in Finance Forum London 2026](https://www.vshn.ch/blog/liene-am-open-source-in-finance-forum-london-2026/)
 - [Souveräne Infrastruktur für den öffentlichen Gesundheitsdienst: Gesundheitsamt Frankfurt wird zur globalen Red Hat Success Story](https://www.vshn.ch/blog/souveraene-infrastruktur-fuer-den-oeffentlichen-gesundheitsdienst-gesundheitsamt-frankfurt-wird-zur-globalen-red-hat-success-story/)
 - [Warum „Buy European“ nicht reicht: Was die Schweiz bei der digitalen Souveränität wirklich tun sollte](https://www.vshn.ch/blog/warum-buy-european-nicht-reicht-was-die-schweiz-bei-der-digitalen-souveraenitaet-wirklich-tun-sollte/)
 - [Switch Cloud Forward Forum Day 2026 Recap](https://www.vshn.ch/blog/switch-cloud-forward-forum-day-2026-recap/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Building a Modern Load Balancer and NAT gateway with Fedora bootable containers](https://www.vshn.ch/blog/building-a-modern-load-balancer-and-nat-gateway-with-fedora-bootable-containers/)
 - [Gewinne Tickets für das Swiss Software Festival 2026](https://www.vshn.ch/blog/gewinne-tickets-fuer-das-swiss-software-festival-2026/)
 - [Open Source als Staatspolitik: Was die EU-Strategie und der Ständeratsentscheid für IT-Entscheider bedeuten](https://www.vshn.ch/blog/open-source-als-staatspolitik-was-die-eu-strategie-und-der-staenderatsentscheid-fuer-it-entscheider-bedeuten/)
-- [Cloud Native Zürich 2026 Recap](https://www.vshn.ch/blog/cloud-native-zuerich-2026-recap/)
 <!-- GENERAL:END -->
 
 ## Social Media

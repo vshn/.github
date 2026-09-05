@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Betrieb nach Stundenaufwand einkaufen: eine Wette gegen Automatisierung](https://www.vshn.ch/blog/betrieb-nach-stundenaufwand-einkaufen-eine-wette-gegen-automatisierung/)
 - [Über 50 Meetups und kein Ende in Sicht: das CNC Switzerland Meetup am 15. September](https://www.vshn.ch/blog/ueber-50-meetups-und-kein-ende-in-sicht-das-cnc-switzerland-meetup-am-15-september/)
 - [Wieder dabei: VSHN am Swiss Cloud Native Day 2026](https://www.vshn.ch/blog/wieder-dabei-vshn-am-swiss-cloud-native-day-2026/)
 - [Liene am Open Source in Finance Forum London 2026](https://www.vshn.ch/blog/liene-am-open-source-in-finance-forum-london-2026/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Warum „Buy European“ nicht reicht: Was die Schweiz bei der digitalen Souveränität wirklich tun sollte](https://www.vshn.ch/blog/warum-buy-european-nicht-reicht-was-die-schweiz-bei-der-digitalen-souveraenitaet-wirklich-tun-sollte/)
 - [Switch Cloud Forward Forum Day 2026 Recap](https://www.vshn.ch/blog/switch-cloud-forward-forum-day-2026-recap/)
 - [Swiss Software Festival Basel 2026 Recap](https://www.vshn.ch/blog/swiss-software-festival-basel-2026-recap/)
-- [Building a Modern Load Balancer and NAT gateway with Fedora bootable containers](https://www.vshn.ch/blog/building-a-modern-load-balancer-and-nat-gateway-with-fedora-bootable-containers/)
 <!-- GENERAL:END -->
 
 ## Social Media

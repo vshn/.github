@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Open Source im grossen Massstab: Warum Schweizer Organisationen eine souveräne Datenbankstrategie brauchen](https://www.vshn.ch/blog/open-source-im-grossen-massstab-warum-schweizer-organisationen-eine-souveraene-datenbankstrategie-brauchen/)
 - [Wieder dabei: VSHN an der DINAcon 2026](https://www.vshn.ch/blog/wieder-dabei-vshn-an-der-dinacon-2026/)
 - [Betrieb nach Stundenaufwand einkaufen: eine Wette gegen Automatisierung](https://www.vshn.ch/blog/betrieb-nach-stundenaufwand-einkaufen-eine-wette-gegen-automatisierung/)
 - [Über 50 Meetups und kein Ende in Sicht: das CNC Switzerland Meetup am 15. September](https://www.vshn.ch/blog/ueber-50-meetups-und-kein-ende-in-sicht-das-cnc-switzerland-meetup-am-15-september/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Liene am Open Source in Finance Forum London 2026](https://www.vshn.ch/blog/liene-am-open-source-in-finance-forum-london-2026/)
 - [Souveräne Infrastruktur für den öffentlichen Gesundheitsdienst: Gesundheitsamt Frankfurt wird zur globalen Red Hat Success Story](https://www.vshn.ch/blog/souveraene-infrastruktur-fuer-den-oeffentlichen-gesundheitsdienst-gesundheitsamt-frankfurt-wird-zur-globalen-red-hat-success-story/)
 - [Warum „Buy European“ nicht reicht: Was die Schweiz bei der digitalen Souveränität wirklich tun sollte](https://www.vshn.ch/blog/warum-buy-european-nicht-reicht-was-die-schweiz-bei-der-digitalen-souveraenitaet-wirklich-tun-sollte/)
-- [Switch Cloud Forward Forum Day 2026 Recap](https://www.vshn.ch/blog/switch-cloud-forward-forum-day-2026-recap/)
 <!-- GENERAL:END -->
 
 ## Social Media

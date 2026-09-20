@@ -42,14 +42,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
-- [Swiss Software Festival 2026 VSHN Recap Slideshow](https://www.youtube.com/watch?v=f9-9n4dXet4)
-- [Digital Neutrality: Switzerland’s Engineering Advantage Aarno Aukia VSHN Swiss Software Festival](https://www.youtube.com/watch?v=0MmV4hDfPcM)
-- [&quot;Bye-bye Ingress-NGINX, hello Gateway API&quot; by Urs Zurbuchen, Airlock](https://www.youtube.com/watch?v=a7gjwzIkEOg)
-- [&quot;From Problem to Production: DevOps for AI with Kubeflow&quot; by Fabrizio Lazzaretti &amp; Marco Crisafulli](https://www.youtube.com/watch?v=vgTMXM3nXjA)
-- [&quot;Cloud-Native Application Definition and Delivery with OAM and KubeVela&quot; by Raffael Klingler, AXA](https://www.youtube.com/watch?v=fLIuRve_MGQ)
-- [&quot;TLS Hot Reload&quot; by Janne Kataja, SIX Group](https://www.youtube.com/watch?v=Im9sFXMI-zY)
-- [&quot;Kuberik: Safe, Hands-Off Deployments for Kubernetes&quot; by Luka Rumora](https://www.youtube.com/watch?v=cdOFr3pGKmU)
-- [&quot;Kubernetes without the Operator: A Minecraft Panel with Rust and kube-rs&quot; by Hadi Cherkaoui](https://www.youtube.com/watch?v=vu-yR-z46xU)
+- [Vibe coding: new problems, and scans to catch them](https://www.youtube.com/shorts/tcP9BLSpSZk)
+- [Vibe coding leaks secrets, so scan for them](https://www.youtube.com/shorts/ETdFzJQI-ds)
+- [When AI writes code you could not write yourself](https://www.youtube.com/shorts/hg5yS2JPxYs)
+- [75% couldn&#39;t tell human code from AI](https://www.youtube.com/shorts/nXtVkBM_nNc)
+- [Give AI a lazy prompt, get garbage](https://www.youtube.com/shorts/_b6z1igXfZ0)
+- [No CVE, no off switch: blocking the Istio bypass](https://www.youtube.com/shorts/EyXO0UJY80Y)
+- [Ambient mode makes Istio easier to bypass](https://www.youtube.com/shorts/u09e1Oaqsy0)
+- [&quot;Paddelbuch: How Kiro Changed the Game&quot; by Chris Bingham, Fujitsu](https://www.youtube.com/watch?v=Xf9BVR4uzrY)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

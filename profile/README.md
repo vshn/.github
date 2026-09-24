@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Triff Monty Widenius: ein technischer Deep Dive in MariaDB im VSHN Tower](https://www.vshn.ch/blog/triff-monty-widenius-ein-technischer-deep-dive-in-mariadb-im-vshn-tower/)
 - [Rückblick Cloud Native Computing Meetup September 2026](https://www.vshn.ch/blog/rueckblick-cloud-native-computing-meetup-september-2026/)
 - [Open Source im grossen Massstab: Warum Schweizer Organisationen eine souveräne Datenbankstrategie brauchen](https://www.vshn.ch/blog/open-source-im-grossen-massstab-warum-schweizer-organisationen-eine-souveraene-datenbankstrategie-brauchen/)
 - [Wieder dabei: VSHN an der DINAcon 2026](https://www.vshn.ch/blog/wieder-dabei-vshn-an-der-dinacon-2026/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Über 50 Meetups und kein Ende in Sicht: das CNC Switzerland Meetup am 15. September](https://www.vshn.ch/blog/ueber-50-meetups-und-kein-ende-in-sicht-das-cnc-switzerland-meetup-am-15-september/)
 - [Wieder dabei: VSHN am Swiss Cloud Native Day 2026](https://www.vshn.ch/blog/wieder-dabei-vshn-am-swiss-cloud-native-day-2026/)
 - [Liene am Open Source in Finance Forum London 2026](https://www.vshn.ch/blog/liene-am-open-source-in-finance-forum-london-2026/)
-- [Souveräne Infrastruktur für den öffentlichen Gesundheitsdienst: Gesundheitsamt Frankfurt wird zur globalen Red Hat Success Story](https://www.vshn.ch/blog/souveraene-infrastruktur-fuer-den-oeffentlichen-gesundheitsdienst-gesundheitsamt-frankfurt-wird-zur-globalen-red-hat-success-story/)
 <!-- GENERAL:END -->
 
 ## Social Media

@@ -42,14 +42,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [The sovereignty question nobody asks: who can switch it off?](https://www.youtube.com/shorts/_TkQ33fp68c)
+- [&quot;MariaDB x VSHN: Engineered for What&#39;s Next&quot; by Jonas Schwegler, MariaDB, and Aarno Aukia, VSHN](https://www.youtube.com/watch?v=NBJOtNaZf_E)
 - [Leave the platform any time: it&#39;s just a Helm chart](https://www.youtube.com/shorts/Km0YOp9KobM)
 - [The AWS architect&#39;s advice that saved the rewrite](https://www.youtube.com/shorts/OvoHg6THt0k)
 - [Picking object storage for Kubernetes](https://www.youtube.com/shorts/bdgNhqbH4kI)
 - [Kiro blew a month&#39;s API quota in a couple of builds](https://www.youtube.com/shorts/ccqQzqmwVEY)
 - [Why leaving Heroku or Vercel is so hard](https://www.youtube.com/shorts/dN041m8sLA4)
 - [The UID 1337 trick that escapes Istio&#39;s mesh](https://www.youtube.com/shorts/w2DXUtm-HtM)
-- [Vibe coding: new problems, and scans to catch them](https://www.youtube.com/shorts/tcP9BLSpSZk)
-- [Vibe coding leaks secrets, so scan for them](https://www.youtube.com/shorts/ETdFzJQI-ds)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

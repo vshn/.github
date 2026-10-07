@@ -25,14 +25,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Wer kann es abschalten](https://www.vshn.ch/blog/wer-kann-es-abschalten/)
+- [Datensouveränität wird gebaut, nicht gekauft: VSHN an den Cloud Native Days Austria 2026](https://www.vshn.ch/blog/datensouveraenitaet-wird-gebaut-nicht-gekauft-vshn-an-den-cloud-native-days-austria-2026/)
 - [OpenShift 4.22 lets your pods mount container images as volumes](https://www.vshn.ch/blog/openshift-4-22-lets-your-pods-mount-container-images-as-volumes/)
 - [Triff Monty Widenius: ein technischer Deep Dive in MariaDB im VSHN Tower](https://www.vshn.ch/blog/triff-monty-widenius-ein-technischer-deep-dive-in-mariadb-im-vshn-tower/)
 - [Rückblick Cloud Native Computing Meetup September 2026](https://www.vshn.ch/blog/rueckblick-cloud-native-computing-meetup-september-2026/)
 - [Open Source im grossen Massstab: Warum Schweizer Organisationen eine souveräne Datenbankstrategie brauchen](https://www.vshn.ch/blog/open-source-im-grossen-massstab-warum-schweizer-organisationen-eine-souveraene-datenbankstrategie-brauchen/)
 - [Wieder dabei: VSHN an der DINAcon 2026](https://www.vshn.ch/blog/wieder-dabei-vshn-an-der-dinacon-2026/)
 - [Betrieb nach Stundenaufwand einkaufen: eine Wette gegen Automatisierung](https://www.vshn.ch/blog/betrieb-nach-stundenaufwand-einkaufen-eine-wette-gegen-automatisierung/)
-- [Über 50 Meetups und kein Ende in Sicht: das CNC Switzerland Meetup am 15. September](https://www.vshn.ch/blog/ueber-50-meetups-und-kein-ende-in-sicht-das-cnc-switzerland-meetup-am-15-september/)
-- [Wieder dabei: VSHN am Swiss Cloud Native Day 2026](https://www.vshn.ch/blog/wieder-dabei-vshn-am-swiss-cloud-native-day-2026/)
 <!-- GENERAL:END -->
 
 ## Social Media

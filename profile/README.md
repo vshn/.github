@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Why we pay for open source we could use for free](https://www.youtube.com/shorts/QwWpYzS4Dzk)
 - [What MariaDB Enterprise costs: count the vCPUs](https://www.youtube.com/shorts/o_OTfvIiBnA)
 - [The sovereignty question nobody asks: who can switch it off?](https://www.youtube.com/shorts/_TkQ33fp68c)
 - [&quot;MariaDB x VSHN: Engineered for What&#39;s Next&quot; by Jonas Schwegler, MariaDB, and Aarno Aukia, VSHN](https://www.youtube.com/watch?v=NBJOtNaZf_E)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [The AWS architect&#39;s advice that saved the rewrite](https://www.youtube.com/shorts/OvoHg6THt0k)
 - [Picking object storage for Kubernetes](https://www.youtube.com/shorts/bdgNhqbH4kI)
 - [Kiro blew a month&#39;s API quota in a couple of builds](https://www.youtube.com/shorts/ccqQzqmwVEY)
-- [Why leaving Heroku or Vercel is so hard](https://www.youtube.com/shorts/dN041m8sLA4)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

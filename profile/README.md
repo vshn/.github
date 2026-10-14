@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [The subscription does not buy the right to run MariaDB](https://www.youtube.com/shorts/1pZWufQxsco)
 - [The MariaDB Foundation exists so nobody can buy the code](https://www.youtube.com/shorts/gZeS8F1FpN0)
 - [Why we pay for open source we could use for free](https://www.youtube.com/shorts/QwWpYzS4Dzk)
 - [What MariaDB Enterprise costs: count the vCPUs](https://www.youtube.com/shorts/o_OTfvIiBnA)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [&quot;MariaDB x VSHN: Engineered for What&#39;s Next&quot; by Jonas Schwegler, MariaDB, and Aarno Aukia, VSHN](https://www.youtube.com/watch?v=NBJOtNaZf_E)
 - [Leave the platform any time: it&#39;s just a Helm chart](https://www.youtube.com/shorts/Km0YOp9KobM)
 - [The AWS architect&#39;s advice that saved the rewrite](https://www.youtube.com/shorts/OvoHg6THt0k)
-- [Picking object storage for Kubernetes](https://www.youtube.com/shorts/bdgNhqbH4kI)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

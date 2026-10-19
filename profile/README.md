@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [When MariaDB Community is enough, and when it is not](https://www.youtube.com/shorts/-0XEjqTkWb0)
 - [Who do I sign the MariaDB contract with?](https://www.youtube.com/shorts/Vq6pOwkLFFc)
 - [The subscription does not buy the right to run MariaDB](https://www.youtube.com/shorts/1pZWufQxsco)
 - [The MariaDB Foundation exists so nobody can buy the code](https://www.youtube.com/shorts/gZeS8F1FpN0)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [What MariaDB Enterprise costs: count the vCPUs](https://www.youtube.com/shorts/o_OTfvIiBnA)
 - [The sovereignty question nobody asks: who can switch it off?](https://www.youtube.com/shorts/_TkQ33fp68c)
 - [&quot;MariaDB x VSHN: Engineered for What&#39;s Next&quot; by Jonas Schwegler, MariaDB, and Aarno Aukia, VSHN](https://www.youtube.com/watch?v=NBJOtNaZf_E)
-- [Leave the platform any time: it&#39;s just a Helm chart](https://www.youtube.com/shorts/Km0YOp9KobM)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

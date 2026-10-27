@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Why an operator and not KEDA for MariaDB on Kubernetes](https://www.youtube.com/shorts/wCGJZ3QHR2U)
 - [A MariaDB test cluster in 11 seconds](https://www.youtube.com/shorts/TSaqhg02Oaw)
 - [Does VSHN run MariaDB Enterprise today?](https://www.youtube.com/shorts/AnnTQoDP7OM)
 - [When MariaDB Community is enough, and when it is not](https://www.youtube.com/shorts/-0XEjqTkWb0)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [The subscription does not buy the right to run MariaDB](https://www.youtube.com/shorts/1pZWufQxsco)
 - [The MariaDB Foundation exists so nobody can buy the code](https://www.youtube.com/shorts/gZeS8F1FpN0)
 - [Why we pay for open source we could use for free](https://www.youtube.com/shorts/QwWpYzS4Dzk)
-- [What MariaDB Enterprise costs: count the vCPUs](https://www.youtube.com/shorts/o_OTfvIiBnA)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

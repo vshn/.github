@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Acht Entwickler, acht Einstellungen: wer bei GitHub über das KI-Training entscheidet](https://www.vshn.ch/blog/acht-entwickler-acht-einstellungen-wer-bei-github-ueber-das-ki-training-entscheidet/)
 - [Ein Tag mit Open-Source-Legenden: Technical Roadshow MariaDB &amp; VSHN mit Michael “Monty” Widenius &amp; Anders Karlsson](https://www.vshn.ch/blog/ein-tag-mit-open-source-legenden-technical-roadshow-mariadb-vshn-mit-michael-monty-widenius-anders-karlsson/)
 - [Katertag: eMudhra, PHP2Shell und GitLab – drei kritische Fixes an einem Tag](https://www.vshn.ch/blog/katertag-emudhra-php2shell-und-gitlab-drei-kritische-fixes-an-einem-tag/)
 - [Wer kann es abschalten](https://www.vshn.ch/blog/wer-kann-es-abschalten/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [OpenShift 4.22 lets your pods mount container images as volumes](https://www.vshn.ch/blog/openshift-4-22-lets-your-pods-mount-container-images-as-volumes/)
 - [Triff Monty Widenius: ein technischer Deep Dive in MariaDB im VSHN Tower](https://www.vshn.ch/blog/triff-monty-widenius-ein-technischer-deep-dive-in-mariadb-im-vshn-tower/)
 - [Rückblick Cloud Native Computing Meetup September 2026](https://www.vshn.ch/blog/rueckblick-cloud-native-computing-meetup-september-2026/)
-- [Open Source im grossen Massstab: Warum Schweizer Organisationen eine souveräne Datenbankstrategie brauchen](https://www.vshn.ch/blog/open-source-im-grossen-massstab-warum-schweizer-organisationen-eine-souveraene-datenbankstrategie-brauchen/)
 <!-- GENERAL:END -->
 
 ## Social Media

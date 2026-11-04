@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Why we are moving off Crossplane: 2,000 lines of Go for one Redis](https://www.youtube.com/shorts/o1u_ZR5OUWo)
 - [Redis changed its license during KubeCon. Eight days later: a fork](https://www.youtube.com/shorts/79yZuQpZYGg)
 - [The EU graded sovereign clouds. None reached SEAL-4](https://www.youtube.com/shorts/Woe2f58KRY0)
 - [Why an operator and not KEDA for MariaDB on Kubernetes](https://www.youtube.com/shorts/wCGJZ3QHR2U)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Does VSHN run MariaDB Enterprise today?](https://www.youtube.com/shorts/AnnTQoDP7OM)
 - [When MariaDB Community is enough, and when it is not](https://www.youtube.com/shorts/-0XEjqTkWb0)
 - [Who do I sign the MariaDB contract with?](https://www.youtube.com/shorts/Vq6pOwkLFFc)
-- [The subscription does not buy the right to run MariaDB](https://www.youtube.com/shorts/1pZWufQxsco)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

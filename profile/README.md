@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Ingress-NGINX is being retired](https://www.youtube.com/shorts/80cws2yUDUs)
 - [200 databases on an operator its vendor would not support](https://www.youtube.com/shorts/nLLloo9Ckmk)
 - [A maintenance window that wiped out 230 databases](https://www.youtube.com/shorts/b_XCHosCbe8)
 - [The law follows the provider, not the rack](https://www.youtube.com/shorts/xR7umDho0VA)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Redis changed its license during KubeCon. Eight days later: a fork](https://www.youtube.com/shorts/79yZuQpZYGg)
 - [The EU graded sovereign clouds. None reached SEAL-4](https://www.youtube.com/shorts/Woe2f58KRY0)
 - [Why an operator and not KEDA for MariaDB on Kubernetes](https://www.youtube.com/shorts/wCGJZ3QHR2U)
-- [A MariaDB test cluster in 11 seconds](https://www.youtube.com/shorts/TSaqhg02Oaw)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

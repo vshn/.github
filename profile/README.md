@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Wenn das Gratis-Angebot endet, sind auch deine Daten weg](https://www.vshn.ch/blog/wenn-das-gratis-angebot-endet-sind-auch-deine-daten-weg/)
 - [VSHN an der TalosCon 2026: Warum wir noch einmal von vorne angefangen haben](https://www.vshn.ch/blog/vshn-an-der-taloscon-2026-warum-wir-noch-einmal-von-vorne-angefangen-haben/)
 - [Acht Entwickler, acht Einstellungen: wer bei GitHub über das KI-Training entscheidet](https://www.vshn.ch/blog/acht-entwickler-acht-einstellungen-wer-bei-github-ueber-das-ki-training-entscheidet/)
 - [Ein Tag mit Open-Source-Legenden: Technical Roadshow MariaDB &amp; VSHN mit Michael “Monty” Widenius &amp; Anders Karlsson](https://www.vshn.ch/blog/ein-tag-mit-open-source-legenden-technical-roadshow-mariadb-vshn-mit-michael-monty-widenius-anders-karlsson/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Wer kann es abschalten](https://www.vshn.ch/blog/wer-kann-es-abschalten/)
 - [Datensouveränität wird gebaut, nicht gekauft: VSHN an den Cloud Native Days Austria 2026](https://www.vshn.ch/blog/datensouveraenitaet-wird-gebaut-nicht-gekauft-vshn-an-den-cloud-native-days-austria-2026/)
 - [Triff Monty Widenius: ein technischer Deep Dive in MariaDB im VSHN Tower](https://www.vshn.ch/blog/triff-monty-widenius-ein-technischer-deep-dive-in-mariadb-im-vshn-tower/)
-- [Rückblick Cloud Native Computing Meetup September 2026](https://www.vshn.ch/blog/rueckblick-cloud-native-computing-meetup-september-2026/)
 <!-- GENERAL:END -->
 
 ## Social Media

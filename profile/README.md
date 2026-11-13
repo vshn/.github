@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [On-prem or cloud: which one is the controlled environment?](https://www.youtube.com/shorts/J22zX1HZJAs)
 - [Ingress-NGINX is being retired](https://www.youtube.com/shorts/80cws2yUDUs)
 - [200 databases on an operator its vendor would not support](https://www.youtube.com/shorts/nLLloo9Ckmk)
 - [A maintenance window that wiped out 230 databases](https://www.youtube.com/shorts/b_XCHosCbe8)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Why we are moving off Crossplane: 2,000 lines of Go for one Redis](https://www.youtube.com/shorts/o1u_ZR5OUWo)
 - [Redis changed its license during KubeCon. Eight days later: a fork](https://www.youtube.com/shorts/79yZuQpZYGg)
 - [The EU graded sovereign clouds. None reached SEAL-4](https://www.youtube.com/shorts/Woe2f58KRY0)
-- [Why an operator and not KEDA for MariaDB on Kubernetes](https://www.youtube.com/shorts/wCGJZ3QHR2U)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

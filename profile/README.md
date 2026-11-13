@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Der wfx-Secret-Stealer in CI: wie er funktioniert, wie du deine Repos prüfst und wie er beim nächsten Mal scheitert](https://www.vshn.ch/blog/der-wfx-secret-stealer-in-ci-wie-er-funktioniert-wie-du-deine-repos-pruefst-und-wie-er-beim-naechsten-mal-scheitert/)
 - [Wenn das Gratis-Angebot endet, sind auch deine Daten weg](https://www.vshn.ch/blog/wenn-das-gratis-angebot-endet-sind-auch-deine-daten-weg/)
 - [VSHN an der TalosCon 2026: Warum wir noch einmal von vorne angefangen haben](https://www.vshn.ch/blog/vshn-an-der-taloscon-2026-warum-wir-noch-einmal-von-vorne-angefangen-haben/)
 - [Acht Entwickler, acht Einstellungen: wer bei GitHub über das KI-Training entscheidet](https://www.vshn.ch/blog/acht-entwickler-acht-einstellungen-wer-bei-github-ueber-das-ki-training-entscheidet/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Katertag: eMudhra, PHP2Shell und GitLab – drei kritische Fixes an einem Tag](https://www.vshn.ch/blog/katertag-emudhra-php2shell-und-gitlab-drei-kritische-fixes-an-einem-tag/)
 - [Wer kann es abschalten](https://www.vshn.ch/blog/wer-kann-es-abschalten/)
 - [Datensouveränität wird gebaut, nicht gekauft: VSHN an den Cloud Native Days Austria 2026](https://www.vshn.ch/blog/datensouveraenitaet-wird-gebaut-nicht-gekauft-vshn-an-den-cloud-native-days-austria-2026/)
-- [Triff Monty Widenius: ein technischer Deep Dive in MariaDB im VSHN Tower](https://www.vshn.ch/blog/triff-monty-widenius-ein-technischer-deep-dive-in-mariadb-im-vshn-tower/)
 <!-- GENERAL:END -->
 
 ## Social Media

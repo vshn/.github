@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign](https://www.vshn.ch/blog/neue-allianz-fuer-digitale-unabhaengigkeit-fuenf-schweizer-it-unternehmen-gruenden-opensovereign/)
 - [Der wfx-Secret-Stealer in CI: wie er funktioniert, wie du deine Repos prüfst und wie er beim nächsten Mal scheitert](https://www.vshn.ch/blog/der-wfx-secret-stealer-in-ci-wie-er-funktioniert-wie-du-deine-repos-pruefst-und-wie-er-beim-naechsten-mal-scheitert/)
 - [Wenn das Gratis-Angebot endet, sind auch deine Daten weg](https://www.vshn.ch/blog/wenn-das-gratis-angebot-endet-sind-auch-deine-daten-weg/)
 - [VSHN an der TalosCon 2026: Warum wir noch einmal von vorne angefangen haben](https://www.vshn.ch/blog/vshn-an-der-taloscon-2026-warum-wir-noch-einmal-von-vorne-angefangen-haben/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Ein Tag mit Open-Source-Legenden: Technical Roadshow MariaDB &amp; VSHN mit Michael “Monty” Widenius &amp; Anders Karlsson](https://www.vshn.ch/blog/ein-tag-mit-open-source-legenden-technical-roadshow-mariadb-vshn-mit-michael-monty-widenius-anders-karlsson/)
 - [Katertag: eMudhra, PHP2Shell und GitLab – drei kritische Fixes an einem Tag](https://www.vshn.ch/blog/katertag-emudhra-php2shell-und-gitlab-drei-kritische-fixes-an-einem-tag/)
 - [Wer kann es abschalten](https://www.vshn.ch/blog/wer-kann-es-abschalten/)
-- [Datensouveränität wird gebaut, nicht gekauft: VSHN an den Cloud Native Days Austria 2026](https://www.vshn.ch/blog/datensouveraenitaet-wird-gebaut-nicht-gekauft-vshn-an-den-cloud-native-days-austria-2026/)
 <!-- GENERAL:END -->
 
 ## Social Media

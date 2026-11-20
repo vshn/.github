@@ -42,14 +42,14 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Why is my database taking five minutes? Crossplane and state](https://www.youtube.com/shorts/pvzbkCXaFDM)
+- [&quot;Helmetica: GitOps Alchemy for a self-service world&quot; by Sebastian Widmer, VSHN](https://www.youtube.com/watch?v=KxY40hEzFwE)
+- [&quot;k3s at Home: Running a Media Stack on Low-Power Hardware&quot; by Lars Barmettler, Open Systems](https://www.youtube.com/watch?v=Q1VgFmvC4EU)
+- [QuantyKube: A Zero-Dependency, Rust-from-Scratch Drop-In for etcd and the Container Sandbox](https://www.youtube.com/watch?v=r-5dRlTfMP8)
+- [Your Cluster, Their Agent: What Open Systems Built Before Letting Claude Touch Kubernetes](https://www.youtube.com/watch?v=aug3PwM_i74)
 - [There is no going back from AI coding](https://www.youtube.com/shorts/imZVeQmh4mM)
 - [Order a database without naming a cloud](https://www.youtube.com/shorts/zMTAUX23D3Q)
 - [How our own users DDoSed us](https://www.youtube.com/shorts/MtoaSsoY7ng)
-- [On-prem or cloud: which one is the controlled environment?](https://www.youtube.com/shorts/J22zX1HZJAs)
-- [Ingress-NGINX is being retired](https://www.youtube.com/shorts/80cws2yUDUs)
-- [200 databases on an operator its vendor would not support](https://www.youtube.com/shorts/nLLloo9Ckmk)
-- [A maintenance window that wiped out 230 databases](https://www.youtube.com/shorts/b_XCHosCbe8)
-- [The law follows the provider, not the rack](https://www.youtube.com/shorts/xR7umDho0VA)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

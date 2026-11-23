@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [An agent found a way around its guardrail](https://www.youtube.com/shorts/fL6FoPjt72U)
 - [Why is my database taking five minutes? Crossplane and state](https://www.youtube.com/shorts/pvzbkCXaFDM)
 - [&quot;Helmetica: GitOps Alchemy for a self-service world&quot; by Sebastian Widmer, VSHN](https://www.youtube.com/watch?v=KxY40hEzFwE)
 - [&quot;k3s at Home: Running a Media Stack on Low-Power Hardware&quot; by Lars Barmettler, Open Systems](https://www.youtube.com/watch?v=Q1VgFmvC4EU)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [Your Cluster, Their Agent: What Open Systems Built Before Letting Claude Touch Kubernetes](https://www.youtube.com/watch?v=aug3PwM_i74)
 - [There is no going back from AI coding](https://www.youtube.com/shorts/imZVeQmh4mM)
 - [Order a database without naming a cloud](https://www.youtube.com/shorts/zMTAUX23D3Q)
-- [How our own users DDoSed us](https://www.youtube.com/shorts/MtoaSsoY7ng)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

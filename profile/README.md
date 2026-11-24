@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [Millions on AI infrastructure, 25% utilization](https://www.youtube.com/shorts/S5qQRPTBLy4)
 - [An agent found a way around its guardrail](https://www.youtube.com/shorts/fL6FoPjt72U)
 - [Why is my database taking five minutes? Crossplane and state](https://www.youtube.com/shorts/pvzbkCXaFDM)
 - [&quot;Helmetica: GitOps Alchemy for a self-service world&quot; by Sebastian Widmer, VSHN](https://www.youtube.com/watch?v=KxY40hEzFwE)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [QuantyKube: A Zero-Dependency, Rust-from-Scratch Drop-In for etcd and the Container Sandbox](https://www.youtube.com/watch?v=r-5dRlTfMP8)
 - [Your Cluster, Their Agent: What Open Systems Built Before Letting Claude Touch Kubernetes](https://www.youtube.com/watch?v=aug3PwM_i74)
 - [There is no going back from AI coding](https://www.youtube.com/shorts/imZVeQmh4mM)
-- [Order a database without naming a cloud](https://www.youtube.com/shorts/zMTAUX23D3Q)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

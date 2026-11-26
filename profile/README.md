@@ -42,6 +42,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## VSHN.tv
 
 <!-- VIDEOS:START -->
+- [What if Broadcom buys your tool](https://www.youtube.com/shorts/YLIBvpGne68)
 - [Won&#39;t a platform API shrink to the least common denominator?](https://www.youtube.com/shorts/R1fQDE7Di5Q)
 - [Millions on AI infrastructure, 25% utilization](https://www.youtube.com/shorts/S5qQRPTBLy4)
 - [An agent found a way around its guardrail](https://www.youtube.com/shorts/fL6FoPjt72U)
@@ -49,7 +50,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [&quot;Helmetica: GitOps Alchemy for a self-service world&quot; by Sebastian Widmer, VSHN](https://www.youtube.com/watch?v=KxY40hEzFwE)
 - [&quot;k3s at Home: Running a Media Stack on Low-Power Hardware&quot; by Lars Barmettler, Open Systems](https://www.youtube.com/watch?v=Q1VgFmvC4EU)
 - [QuantyKube: A Zero-Dependency, Rust-from-Scratch Drop-In for etcd and the Container Sandbox](https://www.youtube.com/watch?v=r-5dRlTfMP8)
-- [Your Cluster, Their Agent: What Open Systems Built Before Letting Claude Touch Kubernetes](https://www.youtube.com/watch?v=aug3PwM_i74)
 <!-- VIDEOS:END -->
 
 Subscribe to our [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) channel!

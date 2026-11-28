@@ -25,6 +25,7 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 ## Blog
 
 <!-- GENERAL:START -->
+- [Deine Cloud-Migration steckt nicht wegen der Cloud fest](https://www.vshn.ch/blog/deine-cloud-migration-steckt-nicht-wegen-der-cloud-fest/)
 - [DINAcon 2026 Recap: Zwei VSHNeer-Talks und der Launch von OpenSovereign](https://www.vshn.ch/blog/dinacon-2026-recap-zwei-vshneer-talks-und-der-launch-von-opensovereign/)
 - [Neue Allianz für digitale Unabhängigkeit: Fünf Schweizer IT-Unternehmen gründen OpenSovereign](https://www.vshn.ch/blog/neue-allianz-fuer-digitale-unabhaengigkeit-fuenf-schweizer-it-unternehmen-gruenden-opensovereign/)
 - [Der wfx-Secret-Stealer in CI: wie er funktioniert, wie du deine Repos prüfst und wie er beim nächsten Mal scheitert](https://www.vshn.ch/blog/der-wfx-secret-stealer-in-ci-wie-er-funktioniert-wie-du-deine-repos-pruefst-und-wie-er-beim-naechsten-mal-scheitert/)
@@ -32,7 +33,6 @@ We are experts in DevOps, Cloud Native, Container & Kubernetes.
 - [VSHN an der TalosCon 2026: Warum wir noch einmal von vorne angefangen haben](https://www.vshn.ch/blog/vshn-an-der-taloscon-2026-warum-wir-noch-einmal-von-vorne-angefangen-haben/)
 - [Acht Entwickler, acht Einstellungen: wer bei GitHub über das KI-Training entscheidet](https://www.vshn.ch/blog/acht-entwickler-acht-einstellungen-wer-bei-github-ueber-das-ki-training-entscheidet/)
 - [Ein Tag mit Open-Source-Legenden: Technical Roadshow MariaDB &amp; VSHN mit Michael “Monty” Widenius &amp; Anders Karlsson](https://www.vshn.ch/blog/ein-tag-mit-open-source-legenden-technical-roadshow-mariadb-vshn-mit-michael-monty-widenius-anders-karlsson/)
-- [Katertag: eMudhra, PHP2Shell und GitLab – drei kritische Fixes an einem Tag](https://www.vshn.ch/blog/katertag-emudhra-php2shell-und-gitlab-drei-kritische-fixes-an-einem-tag/)
 <!-- GENERAL:END -->
 
 ## Social Media
